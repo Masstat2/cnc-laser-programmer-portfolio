@@ -1,18 +1,50 @@
-# Jason Vines
+<p align="center">
+  <img src="assets/banner.svg" alt="Jason Vines, CNC Laser Programmer and Operator banner" width="100%">
+</p>
 
-**CNC Laser Programmer / Machinist**
+<h1 align="center">Jason Vines</h1>
 
-Fairview, Georgia · [masstat.jv@gmail.com](mailto:masstat.jv@gmail.com)
+<p align="center"><strong>⚙️ CNC Laser Programmer / Machinist</strong></p>
+
+<p align="center">
+  <img alt="CNC Laser Programming" src="https://img.shields.io/badge/CNC-Laser_Programming-ff6b00?style=for-the-badge">
+  <img alt="Amada Lasers" src="https://img.shields.io/badge/Amada-3015_%7C_4020_%7C_F1-1f4e79?style=for-the-badge">
+  <img alt="Materials" src="https://img.shields.io/badge/Materials-Stainless_%7C_Aluminum_%7C_HRPO-2e8b57?style=for-the-badge">
+  <img alt="Thickness" src="https://img.shields.io/badge/Thickness-10_to_16_gauge-4b5563?style=for-the-badge">
+</p>
+
+<p align="center">📍 Fairview, Georgia &nbsp;·&nbsp; ✉️ <a href="mailto:masstat.jv@gmail.com">masstat.jv@gmail.com</a></p>
+
+## What I Do
+
+At [Metalworking Solutions](https://www.metalworkingsolutions.com/), I handle all CNC laser programming and I run the lasers, including machines with full automation. I cut stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel, usually from 10 gauge to 16 gauge.
+
+- **Machines:** Amada lasers: 3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation
+- **Materials:** Stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel
+- **Thickness:** Usually 10 gauge to 16 gauge
+
+## Equipment I Run
+
+The links below go to official Amada pages so you can see the equipment. I have not copied Amada's photos onto this page.
+
+- **3015 and 4020 beds** — These bed sizes are shown on Amada America's [ENSIS series](https://www.amada.com/america/ensis-series) and [VENTIS series](https://www.amada.com/america/ventis-aj) pages. A full list of current systems is on Amada America's [Laser Cutting Systems](https://www.amada.com/america/laser-cutting-systems) page.
+- **4kW, 6kW, and 15kW** — 6kW and 15kW are listed on the [ENSIS series](https://www.amada.com/america/ensis-series) page. 6kW is also listed on the [VENTIS series](https://www.amada.com/america/ventis-aj) page. 4kW is listed on Amada's official [F1 series](https://www.amada.co.jp/english/products/bankin/laser/lc_f1_nt_series.html) page.
+- **F1** — See Amada's official [F1 series](https://www.amada.co.jp/english/products/bankin/laser/lc_f1_nt_series.html) page (also listed on [Amada Canada](https://www.amada.ca/laser-f1)). There is not a current F1 product page on Amada America's website.
+- **Full automation** — See Amada America's [AMS CL/CLT](https://www.amada.com/america/ams-3015-cl) load/unload systems (including 3015 setups) and [blanking automation](https://www.amada.com/america/blanking-automation) pages.
+
+I am not claiming a specific Amada model name beyond what I run: 3015 and 4020 beds, 4kW, 6kW, 15kW, F1, and full automation.
 
 ## Summary
 
-CNC Programmer and Machinist with 3+ years of CNC experience. I currently handle all CNC laser programming at Metalworking Solutions. Previously, I did CAD/CAM programming and machine setup at Victory Sign Industries, cutting production time by 20% through efficient setups and improving part accuracy by 15%.
+CNC Programmer and Machinist with 3+ years of CNC experience. I currently handle all CNC laser programming at [Metalworking Solutions](https://www.metalworkingsolutions.com/). Previously, I did CAD/CAM programming and machine setup at Victory Sign Industries, cutting production time by 20% through efficient setups and improving part accuracy by 15%.
 
 I also have experience in manual machining, quality control, training new operators, and leading production teams. I am seeking a CNC Programmer role.
 
 ## Core Skills
 
-- **CNC Programming:** All CNC laser programming at Metalworking Solutions (current); CAD/CAM programming at Victory Sign Industries
+- **CNC Programming:** All CNC laser programming at [Metalworking Solutions](https://www.metalworkingsolutions.com/) (current); CAD/CAM programming at Victory Sign Industries
+- **Lasers & Equipment:** Amada lasers: 3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation
+- **Materials:** Stainless steel, aluminum, and HRPO steel, usually 10 gauge to 16 gauge
 - **Setup & Machining:** CNC machine setup, CNC operation, CNC laser operation, manual machining
 - **Quality & Process:** Quality control, workflow and process improvement, equipment maintenance
 - **Leadership:** Training new operators, production supervision (20+ people), inventory control
@@ -20,11 +52,12 @@ I also have experience in manual machining, quality control, training new operat
 ## Work Experience
 
 ### CNC Laser Programmer / Machinist
-**Metalworking Solutions (MWS)** — Chattanooga, TN  
+**[Metalworking Solutions (MWS)](https://www.metalworkingsolutions.com/)** — Chattanooga, TN  
 *June 2026 – Present*
 
 - Handle all CNC laser programming for the shop
-- Run the CNC laser on 2nd shift in a precision metal fabrication shop
+- Run Amada lasers (3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation) on 2nd shift in a precision metal fabrication shop
+- Program and cut stainless steel, aluminum, and HRPO steel, usually 10 gauge to 16 gauge
 - Apply setup, quality-control, and machine-maintenance experience to keep jobs accurate and on schedule
 
 ### Manual Machinist
@@ -74,9 +107,8 @@ I also have experience in manual machining, quality control, training new operat
 
 ## Tools and Software
 
-Only the tools and methods named on my resume are listed here.
-
-- CNC laser programming (I handle all of this at Metalworking Solutions)
+- Amada lasers: 3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation
+- CNC laser programming (I handle all of this at [Metalworking Solutions](https://www.metalworkingsolutions.com/))
 - CAD/CAM software (used at Victory Sign Industries to turn designs into accurate machine programs)
 - CNC machine setup, CNC operation, and CNC laser operation
 - Manual machining
