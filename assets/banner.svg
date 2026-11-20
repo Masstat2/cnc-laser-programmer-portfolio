@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Decorative banner with a laser spark line">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#152238"/>
+      <stop offset="100%" stop-color="#0d1a14"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff8a00" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#ffb000"/>
+      <stop offset="70%" stop-color="#ffe56a"/>
+      <stop offset="100%" stop-color="#7dd3fc" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <g opacity="0.25" fill="none" stroke="#8aa0b8" stroke-width="1">
+    <path d="M0 240 L180 240 L220 200 L520 200 L560 240 L1280 240"/>
+    <path d="M0 255 L1280 255"/>
+  </g>
+  <path d="M0 248 C 220 248, 280 210, 430 210 S 650 270, 820 230 1100 200, 1280 210" fill="none" stroke="url(#beam)" stroke-width="6" filter="url(#glow)"/>
+  <g fill="#ffd36a">
+    <circle cx="430" cy="208" r="3"/>
+    <circle cx="470" cy="198" r="2"/>
+    <circle cx="510" cy="188" r="1.8"/>
+    <circle cx="820" cy="226" r="3"/>
+    <circle cx="860" cy="214" r="2"/>
+    <circle cx="890" cy="200" r="1.6"/>
+    <circle cx="250" cy="236" r="1.8"/>
+    <circle cx="1040" cy="206" r="2.2"/>
+  </g>
+  <text x="640" y="130" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" fill="#f4f7fb">JASON VINES</text>
+  <text x="640" y="176" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#ffb000">CNC Laser Programmer / Machinist</text>
+  <text x="640" y="290" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#9aa8b8">Original decorative artwork — not a photo of parts or equipment</text>
+</svg>
