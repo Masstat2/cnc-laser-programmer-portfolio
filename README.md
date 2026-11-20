@@ -25,6 +25,22 @@ At [Metalworking Solutions](https://www.metalworkingsolutions.com/), I handle al
 
 ## Equipment I Run
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/machine-3015-4k.jpg" alt="Amada 3015 4K laser with automation (photo I took at work)" width="100%">
+      <br>
+      <em>Amada 3015 4K laser with automation (photo I took at work)</em>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/tower-as-lul.jpg" alt="Amada AS-LUL tower automation (photo I took at work)" width="100%">
+      <br>
+      <em>Amada AS-LUL tower automation (photo I took at work)</em><br>
+      The tower has 7 material shelves, 3 cutting shelves, and 1 finished-goods shelf. The 3 cutting shelves allow continuous loading and unloading when running large jobs.
+    </td>
+  </tr>
+</table>
+
 The links below go to official Amada pages so you can see the equipment. I have not copied Amada's photos onto this page.
 
 - **3015 and 4020 beds** — These bed sizes are shown on Amada America's [ENSIS series](https://www.amada.com/america/ensis-series) and [VENTIS series](https://www.amada.com/america/ventis-aj) pages. A full list of current systems is on Amada America's [Laser Cutting Systems](https://www.amada.com/america/laser-cutting-systems) page.
