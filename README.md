@@ -122,6 +122,11 @@ I also have experience in manual machining, quality control, training new operat
 
 See the [projects](./projects/) folder for a simple template I can use to add photos and notes about parts I have programmed and cut.
 
+## Resources
+
+- [Laser Cutting Quick Reference](./tips/README.md) — a gauge-to-thickness chart and general programming and nesting tips
+- [Resume (PDF)](./resume/Jason_Vines_Resume.pdf)
+
 ## Contact
 
 - **Email:** [masstat.jv@gmail.com](mailto:masstat.jv@gmail.com)
