@@ -238,6 +238,14 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
       </details>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="projects/images/skeleton-12ga-hrpo.jpg" title="Open the full-size photo">
+        <img src="projects/images/skeleton-12ga-hrpo.jpg" alt="Leftover 12 gauge HRPO sheet skeleton on the laser bed slats after a nested cutting run, with rows of cut-out strips and holes" width="100%">
+      </a>
+      <br><em>12 gauge HRPO (hot-rolled, pickled and oiled) skeleton after a nested run on the laser.</em>
+    </td>
+  </tr>
 </table>
 
 More notes about each part are in the [projects](./projects/) folder.
