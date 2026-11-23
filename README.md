@@ -60,10 +60,12 @@ At [Metalworking Solutions](https://www.metalworkingsolutions.com/), I do CNC la
 
 The links below go to official Amada pages so you can see the equipment. I have not copied Amada's photos onto this page.
 
-- **3015 and 4020 beds** — These bed sizes are shown on Amada America's [ENSIS series](https://www.amada.com/america/ensis-series) and [VENTIS series](https://www.amada.com/america/ventis-aj) pages. A full list of current systems is on Amada America's [Laser Cutting Systems](https://www.amada.com/america/laser-cutting-systems) page.
-- **4kW, 6kW, and 15kW** — 6kW and 15kW are listed on the [ENSIS series](https://www.amada.com/america/ensis-series) page. 6kW is also listed on the [VENTIS series](https://www.amada.com/america/ventis-aj) page. 4kW is listed on Amada's official [F1 series](https://www.amada.co.jp/english/products/bankin/laser/lc_f1_nt_series.html) page.
-- **F1** — See Amada's official [F1 series](https://www.amada.co.jp/english/products/bankin/laser/lc_f1_nt_series.html) page (also listed on [Amada Canada](https://www.amada.ca/laser-f1)). There is not a current F1 product page on Amada America's website.
-- **Full automation** — See Amada America's [AMS CL/CLT](https://www.amada.com/america/ams-3015-cl) load/unload systems (including 3015 setups) and [blanking automation](https://www.amada.com/america/blanking-automation) pages.
+| What I run | Official Amada pages |
+| :--- | :--- |
+| **3015 and 4020 beds** | [ENSIS series](https://www.amada.com/america/ensis-series) · [VENTIS series](https://www.amada.com/america/ventis-aj) · [Laser Cutting Systems](https://www.amada.com/america/laser-cutting-systems) |
+| **4kW, 6kW, and 15kW** | [ENSIS series](https://www.amada.com/america/ensis-series) (6kW and 15kW) · [VENTIS series](https://www.amada.com/america/ventis-aj) (6kW) · [F1 series](https://www.amada.co.jp/english/products/bankin/laser/lc_f1_nt_series.html) (4kW) |
+| **F1** | [F1 series](https://www.amada.co.jp/english/products/bankin/laser/lc_f1_nt_series.html) · [Amada Canada](https://www.amada.ca/laser-f1). There is not a current F1 product page on Amada America's website. |
+| **Full automation** | [AMS CL/CLT](https://www.amada.com/america/ams-3015-cl) · [blanking automation](https://www.amada.com/america/blanking-automation) |
 
 I am not claiming a specific Amada model name beyond what I run: 3015 and 4020 beds, 4kW, 6kW, 15kW, F1, and full automation.
 
@@ -168,7 +170,32 @@ I also have experience in manual machining, quality control, training new operat
 <a id="project-showcase"></a>
 ## 📸 Project Showcase
 
-See the [projects](./projects/) folder for a simple template I can use to add photos and notes about parts I have programmed and cut.
+Photos of parts I have programmed and cut. Material and thickness are listed when I know them.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="projects/images/part-01.jpg" alt="Formed channels with laser-cut holes, slots, and notches — 14 ga HRPO" width="100%">
+      <br><em>Formed channels — 14 ga HRPO</em>
+    </td>
+    <td width="50%" valign="top">
+      <img src="projects/images/part-02.jpg" alt="Formed channels with laser-cut slots and cutouts — 14 ga HRPO" width="100%">
+      <br><em>Formed channels with slots and cutouts — 14 ga HRPO</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="projects/images/part-03.jpg" alt="Large curved panels — 14 ga HRPO" width="100%">
+      <br><em>Large curved panels — 14 ga HRPO</em>
+    </td>
+    <td width="50%" valign="top">
+      <img src="projects/images/part-04.jpg" alt="Laser-cut bottle opener — 11 ga stainless steel" width="100%">
+      <br><em>Laser-cut bottle opener — 11 ga stainless steel</em>
+    </td>
+  </tr>
+</table>
+
+More notes about each part are in the [projects](./projects/) folder.
 
 ---
 
