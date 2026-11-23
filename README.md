@@ -1,16 +1,23 @@
+<a id="top"></a>
 <p align="center">
-  <img src="assets/banner.svg" alt="Jason Vines, CNC Laser Programmer and Operator banner" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-steel-dark-animated.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-steel-light-animated.svg">
+    <img src="assets/banner-steel-light-animated.svg" alt="Jason Vines, CNC Laser Programmer and Operator. Original decorative steel-plate artwork — not a photo of parts or equipment." width="100%">
+  </picture>
 </p>
-
-<h1 align="center">Jason Vines</h1>
 
 <p align="center"><strong>⚙️ CNC Laser Programmer / Machinist</strong></p>
 
 <p align="center">
-  <img alt="CNC Laser Programming" src="https://img.shields.io/badge/CNC-Laser_Programming-ff6b00?style=for-the-badge">
-  <img alt="Amada Lasers" src="https://img.shields.io/badge/Amada-3015_%7C_4020_%7C_F1-1f4e79?style=for-the-badge">
-  <img alt="Materials" src="https://img.shields.io/badge/Materials-Stainless_%7C_Aluminum_%7C_HRPO-2e8b57?style=for-the-badge">
-  <img alt="Thickness" src="https://img.shields.io/badge/Thickness-10_to_16_gauge-4b5563?style=for-the-badge">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3500&pause=1200&color=FFB000&center=true&vCenter=true&width=700&height=40&lines=CNC+Laser+Programmer+%26+Operator;Stainless+%C2%B7+Aluminum+%C2%B7+HRPO;Amada+3015+%C2%B7+4020+%C2%B7+F1;Fairview%2C+Georgia" alt="CNC Laser Programmer and Operator at Metalworking Solutions">
+</p>
+
+<p align="center">
+  <img alt="CNC Laser Programming" title="CNC laser programming" src="https://img.shields.io/badge/CNC-Laser_Programming-ff8a00?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Amada Lasers" title="Amada 3015, 4020 and F1" src="https://img.shields.io/badge/Amada-3015_%7C_4020_%7C_F1-e8edf2?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Materials" title="Stainless steel, aluminum, and HRPO" src="https://img.shields.io/badge/Materials-Stainless_%7C_Aluminum_%7C_HRPO-d2b48c?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Thickness" title="Usually 10 gauge to 16 gauge" src="https://img.shields.io/badge/Thickness-10_to_16_gauge-c5d0d8?style=for-the-badge&labelColor=1c1f24">
 </p>
 
 <p align="center">📍 Fairview, Georgia &nbsp;·&nbsp; ✉️ <a href="mailto:masstat.jv@gmail.com">masstat.jv@gmail.com</a></p>
@@ -26,7 +33,9 @@
   <a href="#contact">Contact</a>
 </p>
 
----
+<p align="center">
+  <img src="assets/divider-kerf-animated.svg" alt="" width="100%">
+</p>
 
 <a id="what-i-do"></a>
 ## 🔧 What I Do
@@ -37,7 +46,9 @@ At [Metalworking Solutions](https://www.metalworkingsolutions.com/), I do CNC la
 - **Materials:** Stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel
 - **Thickness:** Usually 10 gauge to 16 gauge
 
----
+<p align="center">
+  <img src="assets/divider-kerf.svg" alt="" width="100%">
+</p>
 
 <a id="equipment-i-run"></a>
 ## 🏭 Equipment I Run
@@ -45,12 +56,16 @@ At [Metalworking Solutions](https://www.metalworkingsolutions.com/), I do CNC la
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/machine-3015-4k.jpg" alt="Amada 3015 4K laser with automation (photo I took at work)" width="100%">
+      <a href="assets/machine-3015-4k.jpg" title="Open the full-size photo">
+        <img src="assets/machine-3015-4k.jpg" alt="Amada 3015 4K laser with automation (photo I took at work)" width="100%">
+      </a>
       <br>
       <em>Amada 3015 4K laser with automation (photo I took at work)</em>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/tower-as-lul.jpg" alt="Amada AS-LUL tower automation (photo I took at work)" width="100%">
+      <a href="assets/tower-as-lul.jpg" title="Open the full-size photo">
+        <img src="assets/tower-as-lul.jpg" alt="Amada AS-LUL tower automation (photo I took at work)" width="100%">
+      </a>
       <br>
       <em>Amada AS-LUL tower automation (photo I took at work)</em><br>
       The tower has 7 material shelves, 3 cutting shelves, and 1 finished-goods shelf. The 3 cutting shelves allow continuous loading and unloading when running large jobs.
@@ -69,7 +84,11 @@ The links below go to official Amada pages so you can see the equipment. I have 
 
 I am not claiming a specific Amada model name beyond what I run: 3015 and 4020 beds, 4kW, 6kW, 15kW, F1, and full automation.
 
----
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+<p align="center">
+  <img src="assets/divider-kerf.svg" alt="" width="100%">
+</p>
 
 ## 📋 Summary
 
@@ -77,7 +96,9 @@ CNC Programmer and Machinist with 3+ years of CNC experience. I currently do CNC
 
 I also have experience in manual machining, quality control, training new operators, and leading production teams. I am seeking a CNC Programmer role.
 
----
+<p align="center">
+  <img src="assets/divider-kerf.svg" alt="" width="100%">
+</p>
 
 <a id="core-skills"></a>
 ## 🛠️ Core Skills
@@ -89,7 +110,9 @@ I also have experience in manual machining, quality control, training new operat
 - **Quality & Process:** Quality control, workflow and process improvement, equipment maintenance
 - **Leadership:** Training new operators, production supervision (20+ people), inventory control
 
----
+<p align="center">
+  <img src="assets/divider-kerf.svg" alt="" width="100%">
+</p>
 
 <a id="work-experience"></a>
 ## 💼 Work Experience
@@ -148,7 +171,11 @@ I also have experience in manual machining, quality control, training new operat
 
 - Restored properties after water, fire, and mold damage while maintaining high safety standards
 
----
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+<p align="center">
+  <img src="assets/divider-kerf.svg" alt="" width="100%">
+</p>
 
 ## 🧰 Tools and Software
 
@@ -159,13 +186,17 @@ I also have experience in manual machining, quality control, training new operat
 - Manual machining
 - Quality control, workflow and process improvement, and equipment maintenance
 
----
+<p align="center">
+  <img src="assets/divider-kerf.svg" alt="" width="100%">
+</p>
 
 ## 🎓 Education
 
 **GED** — Hixson High School, Chattanooga, TN (1991 – 1995)
 
----
+<p align="center">
+  <img src="assets/divider-kerf.svg" alt="" width="100%">
+</p>
 
 <a id="project-showcase"></a>
 ## 📸 Project Showcase
@@ -175,29 +206,61 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="projects/images/part-01.jpg" alt="Formed channels with laser-cut holes, slots, and notches — 14 ga HRPO" width="100%">
+      <a href="projects/images/part-01.jpg" title="Open the full-size photo">
+        <img src="projects/images/part-01.jpg" alt="Formed channels with laser-cut holes, slots, and notches — 14 ga HRPO" width="100%">
+      </a>
       <br><em>Formed channels — 14 ga HRPO</em>
+      <details>
+        <summary>Notes</summary>
+        <p>Formed channels with laser-cut holes, slots, and notches.</p>
+        <p><strong>Material:</strong> 14 ga HRPO (hot rolled pickled and oiled steel)</p>
+      </details>
     </td>
     <td width="50%" valign="top">
-      <img src="projects/images/part-02.jpg" alt="Formed channels with laser-cut slots and cutouts — 14 ga HRPO" width="100%">
+      <a href="projects/images/part-02.jpg" title="Open the full-size photo">
+        <img src="projects/images/part-02.jpg" alt="Formed channels with laser-cut slots and cutouts — 14 ga HRPO" width="100%">
+      </a>
       <br><em>Formed channels with slots and cutouts — 14 ga HRPO</em>
+      <details>
+        <summary>Notes</summary>
+        <p>Formed channels with laser-cut slots and cutouts.</p>
+        <p><strong>Material:</strong> 14 ga HRPO (hot rolled pickled and oiled steel)</p>
+      </details>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="projects/images/part-03.jpg" alt="Large curved panels — 14 ga HRPO" width="100%">
+      <a href="projects/images/part-03.jpg" title="Open the full-size photo">
+        <img src="projects/images/part-03.jpg" alt="Large curved panels — 14 ga HRPO" width="100%">
+      </a>
       <br><em>Large curved panels — 14 ga HRPO</em>
+      <details>
+        <summary>Notes</summary>
+        <p>Large curved panels.</p>
+        <p><strong>Material:</strong> 14 ga HRPO (hot rolled pickled and oiled steel)</p>
+      </details>
     </td>
     <td width="50%" valign="top">
-      <img src="projects/images/part-04.jpg" alt="Laser-cut bottle opener — 11 ga stainless steel" width="100%">
+      <a href="projects/images/part-04.jpg" title="Open the full-size photo">
+        <img src="projects/images/part-04.jpg" alt="Laser-cut bottle opener — 11 ga stainless steel" width="100%">
+      </a>
       <br><em>Laser-cut bottle opener — 11 ga stainless steel</em>
+      <details>
+        <summary>Notes</summary>
+        <p>Laser-cut bottle opener with an animal cutout.</p>
+        <p><strong>Material:</strong> 11 ga stainless steel</p>
+      </details>
     </td>
   </tr>
 </table>
 
 More notes about each part are in the [projects](./projects/) folder.
 
----
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+<p align="center">
+  <img src="assets/divider-kerf.svg" alt="" width="100%">
+</p>
 
 ## 📚 Resources
 
@@ -205,10 +268,18 @@ More notes about each part are in the [projects](./projects/) folder.
 - [🔗 Helpful Links](./resources/HELPFUL_LINKS.md) — free laser cutting, nesting, and safety resources from other sources, with credit to each one
 - [📄 Resume (PDF)](./resume/Jason_Vines_Resume.pdf)
 
----
+<p align="center">
+  <img src="assets/divider-kerf.svg" alt="" width="100%">
+</p>
 
 <a id="contact"></a>
 ## 📬 Contact
 
 - **Email:** [masstat.jv@gmail.com](mailto:masstat.jv@gmail.com)
 - **Location:** Fairview, Georgia
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+<p align="center">
+  <img src="assets/footer-wave.svg" alt="Fairview, Georgia" width="100%">
+</p>
