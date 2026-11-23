@@ -141,6 +141,7 @@ See the [projects](./projects/) folder for a simple template I can use to add ph
 ## Resources
 
 - [Laser Cutting Quick Reference](./tips/README.md) — a gauge-to-thickness chart and general programming and nesting tips
+- [🔗 Helpful Links](./resources/HELPFUL_LINKS.md) — free laser cutting, nesting, and safety resources from other sources, with credit to each one
 - [Resume (PDF)](./resume/Jason_Vines_Resume.pdf)
 
 ## Contact
