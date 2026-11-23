@@ -1,0 +1,15 @@
+# GitHub Pages site settings for the CNC laser programmer portfolio.
+# The README and other content files are left unchanged.
+title: "Jason Vines | CNC Laser Programmer / Machinist"
+description: "CNC Laser Programmer / Machinist at Metalworking Solutions in Fairview, Georgia. Programming and running Amada lasers."
+theme: jekyll-theme-primer
+
+# Keep relative Markdown links resolving on Pages (tips/, projects/,
+# resources/HELPFUL_LINKS.md, and the resume PDF). GitHub Pages also
+# merges in its default plugins, including this one.
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
