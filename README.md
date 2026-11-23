@@ -267,9 +267,9 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <a href="projects/images/amada-3015-6k-cutting.mp4" title="Play the video (MP4)">
-        <img src="projects/images/amada-3015-6k-cutting.gif" alt="Short looping clip of the Amada 3015 6K laser cutting sheet metal, with sparks under the cutting head" width="100%">
+        <img src="projects/images/amada-3015-6k-cutting.gif" alt="Short looping clip of the Amada 3015 6K laser cutting sheet metal, with sparks under the cutting head" width="62%">
       </a>
       <br><em>Amada 3015 6K laser cutting.</em>
     </td>
