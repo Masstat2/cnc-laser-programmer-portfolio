@@ -467,3 +467,10 @@ summary:focus-visible,
     padding: 6px 10px;
   }
 }
+
+/* Website only: the page is always dark, so always show the dark steel
+   nameplate banner, even for visitors whose device is in light mode.
+   The GitHub README keeps its own light/dark switch. */
+img[src$="banner-steel-light-animated.svg"] {
+  content: url("../banner-steel-dark-animated.svg");
+}
