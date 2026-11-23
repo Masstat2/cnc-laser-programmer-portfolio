@@ -280,6 +280,14 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
       <br><em>Slider door latch cut from 12 gauge steel on the Amada 4020 laser.</em>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="projects/images/amada-fo-4020nt-full-machine.jpg" title="Open the full-size photo">
+        <img src="projects/images/amada-fo-4020nt-full-machine.jpg" alt="Full view of the red Amada FO-4020NT laser cutter in the shop, with its operator console on the left" width="50%">
+      </a>
+      <br><em>Amada FO-4020NT laser cutter in the shop.</em>
+    </td>
+  </tr>
 </table>
 
 More notes about each part are in the [projects](./projects/) folder.
