@@ -6,6 +6,7 @@
   <img alt="Machines and Automation" src="https://img.shields.io/badge/Machines-Automation-1f4e79?style=for-the-badge">
   <img alt="Nesting" src="https://img.shields.io/badge/Nesting-Layout_Tips-ff6b00?style=for-the-badge">
   <img alt="Safety" src="https://img.shields.io/badge/Safety-First-2e8b57?style=for-the-badge">
+  <img alt="Free Files to Cut" src="https://img.shields.io/badge/Free_Files-To_Cut-8b5cf6?style=for-the-badge">
 </p>
 
 <p align="center"><em>All content belongs to the original sources credited below. These are just links.</em></p>
@@ -30,6 +31,16 @@
 |---|---|---|
 | [Laser Hazards - Overview](https://www.osha.gov/laser-hazards) | ![OSHA](https://img.shields.io/badge/U.S.-OSHA-2e8b57?style=flat-square) | How lasers can affect eyes and skin, and where to find official guidance. |
 | [Laser Safety Standards](https://www.lia.org/resources/laser-safety-information/laser-safety-standards) | ![Laser Institute](https://img.shields.io/badge/Laser_Institute-LIA-2e8b57?style=flat-square) | Overview of the ANSI Z136 laser safety standards. |
+
+## ✂️ Free Files to Cut
+
+| 📄 Resource | 🏷️ Source | 💡 Why it's useful |
+|---|---|---|
+| [3axis.co free laser cut files](https://3axis.co/) | ![3axis.co](https://img.shields.io/badge/3axis-.co-8b5cf6?style=flat-square) | A big library of free design files for signs, ornaments, and wall art. |
+| [Laser cut designs on Thingiverse](https://www.thingiverse.com/tag:laser_cut) | ![Thingiverse](https://img.shields.io/badge/Thingiverse-Community-8b5cf6?style=flat-square) | Thousands of free designs shared by makers, many with cut files included. |
+| [Laser cutting projects on Instructables](https://www.instructables.com/workshop/laser-cutting/projects/) | ![Instructables](https://img.shields.io/badge/Instructables-Community-8b5cf6?style=flat-square) | Step-by-step projects that usually include the files to cut. |
+
+<p><em>Each design belongs to the person who made it. Check its license before cutting or selling it.</em></p>
 
 ---
 
