@@ -267,11 +267,17 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" valign="top">
       <a href="projects/images/amada-3015-6k-cutting.mp4" title="Play the video (MP4)">
-        <img src="projects/images/amada-3015-6k-cutting.gif" alt="Short looping clip of the Amada 3015 6K laser cutting sheet metal, with sparks under the cutting head" width="50%">
+        <img src="projects/images/amada-3015-6k-cutting.gif" alt="Short looping clip of the Amada 3015 6K laser cutting sheet metal, with sparks under the cutting head" width="100%">
       </a>
       <br><em>Amada 3015 6K laser cutting.</em>
+    </td>
+    <td width="50%" valign="top">
+      <a href="projects/images/slider-door-latch-12ga.jpg" title="Open the full-size photo">
+        <img src="projects/images/slider-door-latch-12ga.jpg" alt="Laser-cut slider door latch part made from 12 gauge steel" width="100%">
+      </a>
+      <br><em>Slider door latch cut from 12 gauge steel on the Amada 4020 laser.</em>
     </td>
   </tr>
 </table>
