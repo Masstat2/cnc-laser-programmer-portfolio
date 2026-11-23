@@ -252,6 +252,20 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
       <br><em>Amada 4020 LASMAC cutting head at work.</em>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="projects/images/amada-3015-6k-cutting.mp4" title="Play the video (MP4)">
+        <img src="projects/images/amada-3015-6k-cutting.gif" alt="Short looping clip of the Amada 3015 6K laser cutting sheet metal, with sparks under the cutting head" width="100%">
+      </a>
+      <br><em>Amada 3015 6K laser cutting.</em>
+    </td>
+    <td width="50%" valign="top">
+      <a href="projects/images/amada-4020-operator-console.jpg" title="Open the full-size photo">
+        <img src="projects/images/amada-4020-operator-console.jpg" alt="Amada operator console on the 4020 laser, with its touch screen, control buttons, and keyboard" width="100%">
+      </a>
+      <br><em>Operator console on the Amada 4020 laser.</em>
+    </td>
+  </tr>
 </table>
 
 More notes about each part are in the [projects](./projects/) folder.
