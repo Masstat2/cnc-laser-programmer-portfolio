@@ -1,5 +1,11 @@
 <a id="top"></a>
 <p align="center">
+  <img src="assets/laser-clip-banner.gif" alt="Stock video of a laser cutting sheet metal in a workshop" width="100%">
+  <br>
+  <sub>Stock video: <a href="https://www.pexels.com/video/precision-laser-cutting-in-industrial-workshop-30455960/">Cemrecan Yurtman / Pexels</a></sub>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-steel-dark-animated.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-steel-light-animated.svg">
