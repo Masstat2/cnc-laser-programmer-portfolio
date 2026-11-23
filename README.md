@@ -38,13 +38,25 @@
 </p>
 
 <a id="what-i-do"></a>
+<a id="core-skills"></a>
 ## 🔧 What I Do
 
 At [Metalworking Solutions](https://www.metalworkingsolutions.com/), I do CNC laser programming and I run the lasers, including machines with full automation. I cut stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel, usually from 10 gauge to 16 gauge.
 
-- **Machines:** Amada lasers: 3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation
-- **Materials:** Stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel
-- **Thickness:** Usually 10 gauge to 16 gauge
+CNC Programmer and Machinist with 3+ years of CNC experience. I am seeking a CNC Programmer role.
+
+| | |
+| :--- | :--- |
+| **Machines** | Amada lasers: 3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation |
+| **Materials** | Stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel |
+| **Thickness** | Usually 10 gauge to 16 gauge |
+| **Programming** | CNC laser programming at [Metalworking Solutions](https://www.metalworkingsolutions.com/) (current); CAD/CAM programming at Victory Sign Industries |
+| **CAD/CAM** | CAD/CAM software (used at Victory Sign Industries to turn designs into accurate machine programs) |
+| **Setup & machining** | CNC machine setup, CNC operation, CNC laser operation, manual machining |
+| **Quality & process** | Quality control, workflow and process improvement, equipment maintenance |
+| **Leadership** | Training new operators, production supervision (20+ people), inventory control |
+
+Previously, I did CAD/CAM programming and machine setup at Victory Sign Industries, cutting production time by 20% through efficient setups and improving part accuracy by 15%. I also have experience in manual machining, quality control, training new operators, and leading production teams.
 
 <p align="center">
   <img src="assets/divider-kerf.svg" alt="" width="100%">
@@ -90,30 +102,6 @@ I am not claiming a specific Amada model name beyond what I run: 3015 and 4020 b
   <img src="assets/divider-kerf.svg" alt="" width="100%">
 </p>
 
-## 📋 Summary
-
-CNC Programmer and Machinist with 3+ years of CNC experience. I currently do CNC laser programming at [Metalworking Solutions](https://www.metalworkingsolutions.com/). Previously, I did CAD/CAM programming and machine setup at Victory Sign Industries, cutting production time by 20% through efficient setups and improving part accuracy by 15%.
-
-I also have experience in manual machining, quality control, training new operators, and leading production teams. I am seeking a CNC Programmer role.
-
-<p align="center">
-  <img src="assets/divider-kerf.svg" alt="" width="100%">
-</p>
-
-<a id="core-skills"></a>
-## 🛠️ Core Skills
-
-- **CNC Programming:** CNC laser programming at [Metalworking Solutions](https://www.metalworkingsolutions.com/) (current); CAD/CAM programming at Victory Sign Industries
-- **Lasers & Equipment:** Amada lasers: 3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation
-- **Materials:** Stainless steel, aluminum, and HRPO steel, usually 10 gauge to 16 gauge
-- **Setup & Machining:** CNC machine setup, CNC operation, CNC laser operation, manual machining
-- **Quality & Process:** Quality control, workflow and process improvement, equipment maintenance
-- **Leadership:** Training new operators, production supervision (20+ people), inventory control
-
-<p align="center">
-  <img src="assets/divider-kerf.svg" alt="" width="100%">
-</p>
-
 <a id="work-experience"></a>
 ## 💼 Work Experience
 
@@ -151,6 +139,9 @@ I also have experience in manual machining, quality control, training new operat
 - Trained new operators, boosting team productivity and skill levels
 - Streamlined workflow and consistently met or exceeded production targets
 
+<details>
+<summary>Earlier work (2011 – 2023)</summary>
+
 ### 👥 Production Supervisor
 **Old Mill Kettle Corn** — Chickamauga, GA  
 *March 2020 – January 2023*
@@ -171,20 +162,9 @@ I also have experience in manual machining, quality control, training new operat
 
 - Restored properties after water, fire, and mold damage while maintaining high safety standards
 
+</details>
+
 <p align="right"><a href="#top">↑ Back to top</a></p>
-
-<p align="center">
-  <img src="assets/divider-kerf.svg" alt="" width="100%">
-</p>
-
-## 🧰 Tools and Software
-
-- Amada lasers: 3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation
-- CNC laser programming (at [Metalworking Solutions](https://www.metalworkingsolutions.com/))
-- CAD/CAM software (used at Victory Sign Industries to turn designs into accurate machine programs)
-- CNC machine setup, CNC operation, and CNC laser operation
-- Manual machining
-- Quality control, workflow and process improvement, and equipment maintenance
 
 <p align="center">
   <img src="assets/divider-kerf.svg" alt="" width="100%">
