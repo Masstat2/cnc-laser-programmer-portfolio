@@ -15,7 +15,21 @@
 
 <p align="center">📍 Fairview, Georgia &nbsp;·&nbsp; ✉️ <a href="mailto:masstat.jv@gmail.com">masstat.jv@gmail.com</a></p>
 
-## What I Do
+<p align="center">
+  <a href="#what-i-do">What I Do</a> &nbsp;·&nbsp;
+  <a href="#equipment-i-run">Equipment</a> &nbsp;·&nbsp;
+  <a href="#core-skills">Skills</a> &nbsp;·&nbsp;
+  <a href="#work-experience">Experience</a> &nbsp;·&nbsp;
+  <a href="./projects/">Projects</a> &nbsp;·&nbsp;
+  <a href="./tips/README.md">Quick Reference</a> &nbsp;·&nbsp;
+  <a href="./resources/HELPFUL_LINKS.md">Helpful Links</a> &nbsp;·&nbsp;
+  <a href="#contact">Contact</a>
+</p>
+
+---
+
+<a id="what-i-do"></a>
+## 🔧 What I Do
 
 At [Metalworking Solutions](https://www.metalworkingsolutions.com/), I do CNC laser programming and I run the lasers, including machines with full automation. I cut stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel, usually from 10 gauge to 16 gauge.
 
@@ -23,7 +37,10 @@ At [Metalworking Solutions](https://www.metalworkingsolutions.com/), I do CNC la
 - **Materials:** Stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel
 - **Thickness:** Usually 10 gauge to 16 gauge
 
-## Equipment I Run
+---
+
+<a id="equipment-i-run"></a>
+## 🏭 Equipment I Run
 
 <table>
   <tr>
@@ -50,13 +67,18 @@ The links below go to official Amada pages so you can see the equipment. I have 
 
 I am not claiming a specific Amada model name beyond what I run: 3015 and 4020 beds, 4kW, 6kW, 15kW, F1, and full automation.
 
-## Summary
+---
+
+## 📋 Summary
 
 CNC Programmer and Machinist with 3+ years of CNC experience. I currently do CNC laser programming at [Metalworking Solutions](https://www.metalworkingsolutions.com/). Previously, I did CAD/CAM programming and machine setup at Victory Sign Industries, cutting production time by 20% through efficient setups and improving part accuracy by 15%.
 
 I also have experience in manual machining, quality control, training new operators, and leading production teams. I am seeking a CNC Programmer role.
 
-## Core Skills
+---
+
+<a id="core-skills"></a>
+## 🛠️ Core Skills
 
 - **CNC Programming:** CNC laser programming at [Metalworking Solutions](https://www.metalworkingsolutions.com/) (current); CAD/CAM programming at Victory Sign Industries
 - **Lasers & Equipment:** Amada lasers: 3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation
@@ -65,9 +87,12 @@ I also have experience in manual machining, quality control, training new operat
 - **Quality & Process:** Quality control, workflow and process improvement, equipment maintenance
 - **Leadership:** Training new operators, production supervision (20+ people), inventory control
 
-## Work Experience
+---
 
-### CNC Laser Programmer / Machinist
+<a id="work-experience"></a>
+## 💼 Work Experience
+
+### ⚡ CNC Laser Programmer / Machinist
 **[Metalworking Solutions (MWS)](https://www.metalworkingsolutions.com/)** — Chattanooga, TN  
 *June 2026 – Present*
 
@@ -76,13 +101,13 @@ I also have experience in manual machining, quality control, training new operat
 - Program and cut stainless steel, aluminum, and HRPO steel, usually 10 gauge to 16 gauge
 - Apply setup, quality-control, and machine-maintenance experience to keep jobs accurate and on schedule
 
-### Manual Machinist
+### 🔩 Manual Machinist
 **LaBrie Group**  
 *November 2025 – June 2026*
 
 - Performed precision manual machining for heavy-duty components
 
-### CNC Laser Machine Operator
+### 🏭 CNC Laser Machine Operator
 **Alloway Stamping & Machine / Wise Staffing**  
 *June 2025 – November 2025*
 
@@ -90,7 +115,7 @@ I also have experience in manual machining, quality control, training new operat
 - Machined outsourced parts for major clients
 - Maintained equipment to ensure minimal downtime and consistent output
 
-### CNC Operator / Machinist
+### ⚙️ CNC Operator / Machinist
 **Victory Sign Industries** — Fort Oglethorpe, GA  
 *February 2023 – October 2025*
 
@@ -101,7 +126,7 @@ I also have experience in manual machining, quality control, training new operat
 - Trained new operators, boosting team productivity and skill levels
 - Streamlined workflow and consistently met or exceeded production targets
 
-### Production Supervisor
+### 👥 Production Supervisor
 **Old Mill Kettle Corn** — Chickamauga, GA  
 *March 2020 – January 2023*
 
@@ -109,19 +134,21 @@ I also have experience in manual machining, quality control, training new operat
 - Trained staff, reducing errors by 40%; collaborated with engineering to improve product quality by 20%
 - Managed inventory, cutting costs by 15% annually; achieved a 98% on-time delivery rate
 
-### Picker
+### 📦 Picker
 **Amazon** — Chattanooga, TN  
 *July 2015 – March 2020*
 
 - Achieved 99% picking accuracy and exceeded daily targets by 20% using scanning technology for real-time inventory tracking
 
-### Restoration Technician
+### 🏠 Restoration Technician
 **ServPro** — LaFayette, GA  
 *May 2011 – July 2015*
 
 - Restored properties after water, fire, and mold damage while maintaining high safety standards
 
-## Tools and Software
+---
+
+## 🧰 Tools and Software
 
 - Amada lasers: 3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation
 - CNC laser programming (at [Metalworking Solutions](https://www.metalworkingsolutions.com/))
@@ -130,21 +157,31 @@ I also have experience in manual machining, quality control, training new operat
 - Manual machining
 - Quality control, workflow and process improvement, and equipment maintenance
 
-## Education
+---
+
+## 🎓 Education
 
 **GED** — Hixson High School, Chattanooga, TN (1991 – 1995)
 
-## Project Showcase
+---
+
+<a id="project-showcase"></a>
+## 📸 Project Showcase
 
 See the [projects](./projects/) folder for a simple template I can use to add photos and notes about parts I have programmed and cut.
 
-## Resources
+---
 
-- [Laser Cutting Quick Reference](./tips/README.md) — a gauge-to-thickness chart and general programming and nesting tips
+## 📚 Resources
+
+- [📐 Laser Cutting Quick Reference](./tips/README.md) — a gauge-to-thickness chart and general programming and nesting tips
 - [🔗 Helpful Links](./resources/HELPFUL_LINKS.md) — free laser cutting, nesting, and safety resources from other sources, with credit to each one
-- [Resume (PDF)](./resume/Jason_Vines_Resume.pdf)
+- [📄 Resume (PDF)](./resume/Jason_Vines_Resume.pdf)
 
-## Contact
+---
+
+<a id="contact"></a>
+## 📬 Contact
 
 - **Email:** [masstat.jv@gmail.com](mailto:masstat.jv@gmail.com)
 - **Location:** Fairview, Georgia
