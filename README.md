@@ -239,11 +239,17 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <a href="projects/images/skeleton-12ga-hrpo.jpg" title="Open the full-size photo">
         <img src="projects/images/skeleton-12ga-hrpo.jpg" alt="Leftover 12 gauge HRPO sheet skeleton on the laser bed slats after a nested cutting run, with rows of cut-out strips and holes" width="100%">
       </a>
       <br><em>12 gauge HRPO (hot-rolled, pickled and oiled) skeleton after a nested run on the laser.</em>
+    </td>
+    <td width="50%" valign="top">
+      <a href="projects/images/amada-4020-laser-head.jpg" title="Open the full-size photo">
+        <img src="projects/images/amada-4020-laser-head.jpg" alt="Red Amada LASMAC cutting head on the 4020 laser, cutting a sheet of metal with sparks under the nozzle" width="100%">
+      </a>
+      <br><em>Amada 4020 LASMAC cutting head at work.</em>
     </td>
   </tr>
 </table>
