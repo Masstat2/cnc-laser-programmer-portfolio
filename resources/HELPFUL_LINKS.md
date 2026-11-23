@@ -49,6 +49,15 @@
 
 <p><em>Each design belongs to the person who made it. Check its license before cutting or selling it.</em></p>
 
+## Free Software and Tools
+
+These are free tools from other people, shared here as resources.
+
+- [SVGnest](https://github.com/Jack000/SVGnest) - Source: Jack Qiao on GitHub. A free tool that arranges parts on a sheet to waste less material.
+- [Deepnest (deepnest-next)](https://github.com/deepnest-next/deepnest) - Source: the deepnest-next community on GitHub. A free desktop program for nesting parts for laser cutting.
+- [LibreCAD](https://github.com/LibreCAD/LibreCAD) - Source: the LibreCAD project on GitHub. A free 2D drawing program that opens and saves DXF files.
+- [DXF Viewer example](https://vagran.github.io/dxf-viewer-example/) - Source: vagran on GitHub. A free in-browser viewer for opening and looking at DXF files.
+
 <p align="center">
   <img src="../assets/divider-kerf.svg" alt="" width="100%">
 </p>
