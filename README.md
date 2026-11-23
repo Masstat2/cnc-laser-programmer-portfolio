@@ -14,7 +14,6 @@
 </p>
 
 <p align="center">
-  <img alt="Open to work, CNC Programmer" title="Seeking a CNC Programmer role" src="https://img.shields.io/badge/OPEN_TO_WORK-CNC_Programmer-ff8a00?style=for-the-badge&labelColor=1c1f24">
   <img alt="CNC Laser Programming" title="CNC laser programming" src="https://img.shields.io/badge/CNC-Laser_Programming-ff8a00?style=for-the-badge&labelColor=1c1f24">
   <img alt="Amada Lasers" title="Amada 3015, 4020 and F1" src="https://img.shields.io/badge/Amada-3015_%7C_4020_%7C_F1-e8edf2?style=for-the-badge&labelColor=1c1f24">
   <img alt="Materials" title="Stainless steel, aluminum, and HRPO" src="https://img.shields.io/badge/Materials-Stainless_%7C_Aluminum_%7C_HRPO-d2b48c?style=for-the-badge&labelColor=1c1f24">
