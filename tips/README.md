@@ -1,8 +1,18 @@
-# Laser Cutting Quick Reference
+<h1 align="center">📐 Laser Cutting Quick Reference</h1>
 
-A short reference for sheet-metal gauges and everyday laser programming and nesting habits. These are general good practices, not a description of any one shop's process.
+<p align="center"><strong>A short reference for sheet-metal gauges and everyday laser programming and nesting habits.</strong></p>
 
-## Sheet-metal gauge to thickness
+<p align="center">
+  <img alt="Gauge Chart" src="https://img.shields.io/badge/Gauge_Chart-10_to_16-4b5563?style=for-the-badge">
+  <img alt="Materials" src="https://img.shields.io/badge/Materials-Steel_%7C_Stainless_%7C_Aluminum-2e8b57?style=for-the-badge">
+  <img alt="Programming and Nesting Tips" src="https://img.shields.io/badge/Programming-Nesting_Tips-ff6b00?style=for-the-badge">
+</p>
+
+<p align="center"><em>These are general good practices, not a description of any one shop's process.</em></p>
+
+---
+
+## 📏 Sheet-metal gauge to thickness
 
 The same gauge number is not the same thickness in every metal. Steel (including HRPO) uses the Manufacturer's Standard Gauge. Stainless steel uses a slightly different scale. Aluminum uses the Brown & Sharpe (American Wire Gauge) scale.
 
@@ -22,7 +32,9 @@ Overlapping values were cross-checked against [Metal Supermarkets' Sheet Metal G
 
 When ordering or programming, it is safest to call out both the material and the decimal thickness, not just the gauge number.
 
-## Programming and nesting tips
+---
+
+## 🧩 Programming and nesting tips
 
 These are common, general practices for laser programming and nesting:
 
@@ -35,7 +47,13 @@ These are common, general practices for laser programming and nesting:
 - **Spacing and heat.** Leave enough gap between parts for the kerf and for heat. Crowding thin stainless or aluminum can cause warping or edge burn.
 - **Review the nest before it runs.** Check quantity, material, thickness, grain, lead-ins, tabs, and that no part hangs off the sheet.
 
-## Sources
+---
+
+## 📚 Sources
 
 - [The Engineering Toolbox — Weight vs. Gauges Chart](https://www.engineeringtoolbox.com/gauge-sheet-d_915.html)
 - [Metal Supermarkets — Sheet Metal Gauge Chart](https://www.metalsupermarkets.com/sheet-metal-gauge-chart/) (cross-check)
+
+---
+
+<p align="center">⬅️ <a href="../README.md">Back to my portfolio</a></p>
