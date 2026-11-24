@@ -1017,6 +1017,51 @@ html[data-theme="light"] .theme-toggle-moon {
   }
 }
 
+/* Home "Equipment I Run": two photos side by side at the same height. Each card's width follows its
+   photo's shape (flex-grow = width / height), so nothing is cropped and there is no gap under a photo. */
+.equip-row {
+  display: flex;
+  align-items: stretch;
+  gap: 14px;
+  margin: 0 0 1.5rem;
+}
+
+.equip-row .photo-tile {
+  flex-basis: 0;
+  min-width: 0;
+}
+
+.markdown-body .equip-row .photo-tile img {
+  height: auto;
+  aspect-ratio: auto;
+}
+
+@media (max-width: 600px) {
+  .equip-row {
+    flex-direction: column;
+  }
+}
+
+/* Machines: even out photo gaps.
+   A lone last photo in a 2-column card spans the row (centered) instead of leaving an empty half. */
+.machine-card .machine-photos:not(.machine-photos-3):not(.machine-photos-natural) > a:last-child:nth-child(odd):not(:first-child) {
+  grid-column: 1 / -1;
+}
+
+.markdown-body .machine-card .machine-photos:not(.machine-photos-3):not(.machine-photos-natural) > a:last-child:nth-child(odd):not(:first-child) img {
+  aspect-ratio: 8 / 3;
+}
+
+/* Cards with few photos show them full width at their own shape, so the card fills the row height. */
+.machine-card .machine-photos.machine-photos-natural {
+  grid-template-columns: 1fr;
+}
+
+.markdown-body .machine-card .machine-photos.machine-photos-natural img {
+  height: auto;
+  aspect-ratio: auto;
+}
+
 /* ---------- Stock photos (always labeled, never zoomable) ---------- */
 .markdown-body figure.stock-photo {
   position: relative;
