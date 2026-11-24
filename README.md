@@ -281,11 +281,17 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" valign="top">
       <a href="projects/images/amada-fo-4020nt-full-machine.jpg" title="Open the full-size photo">
-        <img src="projects/images/amada-fo-4020nt-full-machine.jpg" alt="Full view of the red Amada FO-4020NT laser cutter in the shop, with its operator console on the left" width="50%">
+        <img src="projects/images/amada-fo-4020nt-full-machine.jpg" alt="Full view of the red Amada FO-4020NT laser cutter in the shop, with its operator console on the left" width="100%">
       </a>
       <br><em>Amada FO-4020NT laser cutter in the shop.</em>
+    </td>
+    <td width="50%" valign="top">
+      <a href="projects/images/amada-lcg-3015aj-6kw-full-machine.jpg" title="Open the full-size photo">
+        <img src="projects/images/amada-lcg-3015aj-6kw-full-machine.jpg" alt="Full view of the gray Amada LCG 3015AJ 6kW laser cutter in the shop, with its operator console in front" width="100%">
+      </a>
+      <br><em>Amada LCG 3015AJ 6kW laser cutter.</em>
     </td>
   </tr>
 </table>
