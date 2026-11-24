@@ -3,15 +3,6 @@
   <img src="../assets/wordmark.svg" alt="Jason Vines. Original decorative steel nameplate artwork — not a photo of parts or equipment." width="100%">
 </p>
 
-<p align="center" class="page-nav">
-  <a href="../">🏠 Home</a> &nbsp;·&nbsp;
-  <a href="../projects/">Projects</a> &nbsp;·&nbsp;
-  <a href="../gallery/">Gallery</a> &nbsp;·&nbsp;
-  <a href="../machines/">Machines</a> &nbsp;·&nbsp;
-  <a href="../resume/">Resume</a> &nbsp;·&nbsp;
-  <a href="../how-it-works/">How It Works</a>
-</p>
-
 <h1 align="center">⚙️ How a Laser Job Runs</h1>
 
 <p align="center"><strong>This page is a simple walk-through for shop bosses and recruiters who have never stood next to a laser.</strong></p>
