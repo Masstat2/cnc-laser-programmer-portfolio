@@ -34,8 +34,8 @@
   <a href="#core-skills">Skills</a> &nbsp;·&nbsp;
   <a href="#work-experience">Experience</a> &nbsp;·&nbsp;
   <a href="./projects/">Projects</a> &nbsp;·&nbsp;
-  <a href="./tips/README.md">Quick Reference</a> &nbsp;·&nbsp;
-  <a href="./resources/HELPFUL_LINKS.md">Helpful Links</a> &nbsp;·&nbsp;
+  <a href="./tips/">Quick Reference</a> &nbsp;·&nbsp;
+  <a href="./resources/HELPFUL_LINKS.html">Helpful Links</a> &nbsp;·&nbsp;
   <a href="#contact">Contact</a>
 </p>
 
