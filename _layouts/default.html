@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<!--
+  This layout is based on jekyll-theme-primer's default layout
+  (MIT License, Copyright 2016-2017 GitHub, Inc.).
+  https://github.com/pages-themes/primer
+
+  GLightbox 3.3.1 is loaded from jsDelivr and is MIT licensed
+  (Copyright 2018 Biati Digital). The CSS and JS files served by
+  the CDN include the license notice.
+  https://github.com/biati-digital/glightbox/blob/master/LICENSE
+-->
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+      /* Apply the saved theme before CSS paints, so the page does not flash. Dark is the default. */
+      (function () {
+        try {
+          var t = localStorage.getItem('site-theme');
+          if (t === 'light' || t === 'dark') {
+            document.documentElement.setAttribute('data-theme', t);
+          }
+        } catch (e) {}
+      })();
+    </script>
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!-- GLightbox 3.3.1, MIT License, Copyright 2018 Biati Digital. The CDN file carries the license notice. -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox@3.3.1/dist/css/glightbox.min.css">
+    <style>
+      /* Compact, on-theme GLightbox captions (overrides the CDN stylesheet). */
+      .glightbox-container .gslide-description {
+        background: var(--steel-plate) !important;
+        color: var(--text) !important;
+      }
+      .glightbox-container .gslide-title,
+      .glightbox-container .gslide-desc {
+        color: var(--text) !important;
+      }
+      .glightbox-container .gslide-title {
+        font-size: 0.95rem !important;
+        font-weight: 600 !important;
+        margin: 0 !important;
+      }
+      .glightbox-container .gdesc-inner {
+        padding: 10px 18px !important;
+      }
+      .glightbox-container .gslide-desc {
+        margin: 0 !important;
+      }
+    </style>
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      <div class="site-header-bar">
+        {% if site.title and site.title != page.title %}
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+        {% endif %}
+        <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch to light theme" title="Switch to light theme">
+          <span class="theme-toggle-sun" aria-hidden="true">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="4"></circle>
+              <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"></path>
+            </svg>
+          </span>
+          <span class="theme-toggle-moon" aria-hidden="true">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 14.5A8.5 8.5 0 1 1 9.5 3 7 7 0 0 0 21 14.5z"></path>
+            </svg>
+          </span>
+          <span class="theme-toggle-text">Light</span>
+        </button>
+      </div>
+
+      {{ content }}
+
+      {% if site.github.private != true and site.github.license %}
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+        This site is open source. {% github_edit_link "Improve this page" %}.
+      </div>
+      {% endif %}
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    <!-- GLightbox 3.3.1, MIT License, Copyright 2018 Biati Digital. The CDN file carries the license notice. -->
+    <script src="https://cdn.jsdelivr.net/npm/glightbox@3.3.1/dist/js/glightbox.min.js"></script>
+    <script src="{{ "/assets/js/site.js?v=" | append: site.github.build_revision | relative_url }}"></script>
+  </body>
+</html>

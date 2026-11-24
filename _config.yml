@@ -13,3 +13,12 @@ plugins:
 relative_links:
   enabled: true
   collections: false
+
+
+# Use the custom default layout (theme toggle, GLightbox, site.js)
+# on every page, including Markdown files with no front matter.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
