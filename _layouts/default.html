@@ -51,6 +51,18 @@
       .glightbox-container .gslide-desc {
         margin: 0 !important;
       }
+      /* Zoom backdrop: solid and pinned to every edge of the window.
+         GLightbox's desktop overlay is only 92% black and sized with 100vh,
+         so the page showed through and could peek out at the edges. */
+      .glightbox-container .goverlay {
+        top: -1px !important;
+        right: 0 !important;
+        bottom: -1px !important;
+        left: 0 !important;
+        width: auto !important;
+        height: auto !important;
+        background: #000 !important;
+      }
     </style>
     {% include head-custom.html %}
   </head>
@@ -76,7 +88,47 @@
         </button>
       </div>
 
+      {%- comment -%}
+        One shared site menu for every page except home. Each page starts with its
+        JASON VINES banner (wordmark.svg on subpages, the steel banner on
+        home), so the menu is placed right after that banner's closing </p>.
+        A page without either banner gets the menu at the top instead.
+      {%- endcomment -%}
+      {%- capture site_menu -%}
+      <nav aria-label="Site menu">
+        <p align="center" class="page-nav">
+          <a href="{{ "/" | relative_url }}">🏠 Home</a> &nbsp;·&nbsp;
+          <a href="{{ "/projects/" | relative_url }}">Projects</a> &nbsp;·&nbsp;
+          <a href="{{ "/gallery/" | relative_url }}">Gallery</a> &nbsp;·&nbsp;
+          <a href="{{ "/machines/" | relative_url }}">Machines</a> &nbsp;·&nbsp;
+          <a href="{{ "/resume/" | relative_url }}">Resume</a> &nbsp;·&nbsp;
+          <a href="{{ "/how-it-works/" | relative_url }}">How It Works</a>
+        </p>
+      </nav>
+      {%- endcapture -%}
+      {%- comment -%} Home has its own section menu, so the shared menu is left off home only (Jason). {%- endcomment -%}
+      {%- if page.url == '/' or page.url == '/index.html' %}
       {{ content }}
+      {%- else -%}
+      {%- assign menu_key = 'wordmark.svg' -%}
+      {%- if content contains 'banner-steel-light-animated.svg' -%}
+        {%- assign menu_key = 'banner-steel-light-animated.svg' -%}
+      {%- endif -%}
+      {%- if content contains menu_key %}
+        {%- assign menu_before = content | split: menu_key | first -%}
+        {%- assign menu_tail = content | remove_first: menu_before | remove_first: menu_key -%}
+        {%- assign menu_mid = menu_tail | split: '</p>' | first -%}
+        {%- assign menu_after = menu_tail | remove_first: menu_mid | remove_first: '</p>' %}
+      {{ menu_before }}{{ menu_key }}{{ menu_mid }}</p>
+
+{{ site_menu }}
+{{ menu_after }}
+      {%- else %}
+{{ site_menu }}
+
+      {{ content }}
+      {%- endif %}
+      {%- endif %}
 
       {% if site.github.private != true and site.github.license %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
