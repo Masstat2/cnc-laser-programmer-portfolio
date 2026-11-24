@@ -474,3 +474,57 @@ summary:focus-visible,
 img[src$="banner-steel-light-animated.svg"] {
   content: url("../banner-steel-dark-animated.svg");
 }
+
+
+/* Core Skills card grid. Keeps the existing steel/ember palette.
+   Overrides Primer's display:block tables so the two columns sit side by side. */
+.markdown-body table.skill-cards {
+  display: table;
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 10px;
+  overflow: visible;
+}
+
+.markdown-body table.skill-cards tr {
+  background-color: transparent;
+  border: 0;
+}
+
+.markdown-body table.skill-cards tr:nth-child(2n) {
+  background-color: transparent;
+}
+
+.markdown-body table.skill-cards td {
+  width: 50%;
+  padding: 16px 18px;
+  color: var(--text);
+  vertical-align: top;
+  background-color: var(--steel-plate);
+  border: 1px solid var(--steel-edge);
+  border-radius: 8px;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04);
+}
+
+.markdown-body table.skill-cards .skill-label {
+  display: block;
+  margin: 0 0 8px;
+  color: var(--ember-hot);
+  font-size: 1.02rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.markdown-body table.skill-cards p {
+  margin: 0;
+  color: var(--text);
+}
+
+.markdown-body .skill-badges {
+  text-align: center;
+  margin: 0 0 8px;
+}
+
+.markdown-body .skill-badges img {
+  margin: 3px 2px;
+}

@@ -13,7 +13,9 @@
   </picture>
 </p>
 
-<p align="center"><strong>⚙️ CNC Laser Programmer &amp; Operator</strong></p>
+<p align="center">
+  <img alt="CNC Laser Programmer &amp; Operator" title="CNC Laser Programmer &amp; Operator" src="https://img.shields.io/badge/CNC_Laser-Programmer_%26_Operator-ff8a00?style=for-the-badge&labelColor=1c1f24">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3500&pause=1200&color=FFB000&center=true&vCenter=true&width=700&height=40&lines=CNC+Laser+Programmer+%26+Operator;Stainless+%C2%B7+Aluminum+%C2%B7+HRPO;Amada+3015+%C2%B7+4020+%C2%B7+F1;Fairview%2C+Georgia" alt="CNC Laser Programmer &amp; Operator at Metalworking Solutions">
@@ -27,6 +29,10 @@
 </p>
 
 <p align="center">📍 Fairview, Georgia &nbsp;·&nbsp; ✉️ <a href="mailto:masstat.jv@gmail.com">masstat.jv@gmail.com</a> &nbsp;·&nbsp; <a href="https://github.com/Masstat2">GitHub</a></p>
+
+<p align="center">
+  <a href="https://github.com/Masstat2"><img alt="View my GitHub profile" title="View my GitHub profile" src="https://img.shields.io/badge/View_my_GitHub_profile-E60012?style=for-the-badge&labelColor=1c1f24"></a>
+</p>
 
 <p align="center">
   <a href="#what-i-do">What I Do</a> &nbsp;·&nbsp;
@@ -99,16 +105,80 @@ I am not claiming a specific Amada model name beyond what I run: 3015 and 4020 b
 <a id="core-skills"></a>
 ## 🛠️ Core Skills
 
-| | |
-| :--- | :--- |
-| **Machines** | Amada lasers: 3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation |
-| **Materials** | Stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel |
-| **Thickness** | Usually 10 gauge to 16 gauge |
-| **Programming** | CNC laser programming at [Metalworking Solutions](https://www.metalworkingsolutions.com/) (current); CAD/CAM programming at Victory Sign Industries |
-| **CAD/CAM** | CAD/CAM software (used at Victory Sign Industries to turn designs into accurate machine programs) |
-| **Setup & machining** | CNC machine setup, CNC operation, CNC laser operation, manual machining |
-| **Quality & process** | Quality control, workflow and process improvement, equipment maintenance |
-| **Leadership** | Training new operators, production supervision (20+ people), inventory control |
+<p align="center" class="skill-badges">
+  <img alt="Amada 3015" title="Amada 3015" src="https://img.shields.io/badge/Amada-3015-ff8a00?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Amada 4020" title="Amada 4020" src="https://img.shields.io/badge/Amada-4020-ff8a00?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Amada F1" title="Amada F1" src="https://img.shields.io/badge/Amada-F1-ff8a00?style=for-the-badge&labelColor=1c1f24">
+  <img alt="4kW" title="4kW" src="https://img.shields.io/badge/4kW-e8edf2?style=for-the-badge&labelColor=1c1f24">
+  <img alt="6kW" title="6kW" src="https://img.shields.io/badge/6kW-e8edf2?style=for-the-badge&labelColor=1c1f24">
+  <img alt="15kW" title="15kW" src="https://img.shields.io/badge/15kW-e8edf2?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Full automation" title="Full automation" src="https://img.shields.io/badge/Full_automation-e3983a?style=for-the-badge&labelColor=1c1f24">
+</p>
+<p align="center" class="skill-badges">
+  <img alt="Stainless steel" title="Stainless steel" src="https://img.shields.io/badge/Stainless_steel-d2b48c?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Aluminum" title="Aluminum" src="https://img.shields.io/badge/Aluminum-d2b48c?style=for-the-badge&labelColor=1c1f24">
+  <img alt="HRPO" title="HRPO (hot rolled pickled and oiled) steel" src="https://img.shields.io/badge/HRPO-d2b48c?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Usually 10 gauge to 16 gauge" title="Usually 10 gauge to 16 gauge" src="https://img.shields.io/badge/10_to_16_gauge-c5d0d8?style=for-the-badge&labelColor=1c1f24">
+</p>
+<p align="center" class="skill-badges">
+  <img alt="CNC laser programming" title="CNC laser programming" src="https://img.shields.io/badge/CNC_laser_programming-ff8a00?style=for-the-badge&labelColor=1c1f24">
+  <img alt="CAD/CAM" title="CAD/CAM" src="https://img.shields.io/badge/CAD%2FCAM-ff8a00?style=for-the-badge&labelColor=1c1f24">
+  <img alt="CNC machine setup" title="CNC machine setup" src="https://img.shields.io/badge/CNC_machine_setup-e8edf2?style=for-the-badge&labelColor=1c1f24">
+  <img alt="CNC operation" title="CNC operation" src="https://img.shields.io/badge/CNC_operation-e8edf2?style=for-the-badge&labelColor=1c1f24">
+  <img alt="CNC laser operation" title="CNC laser operation" src="https://img.shields.io/badge/CNC_laser_operation-e8edf2?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Manual machining" title="Manual machining" src="https://img.shields.io/badge/Manual_machining-e8edf2?style=for-the-badge&labelColor=1c1f24">
+</p>
+<p align="center" class="skill-badges">
+  <img alt="Quality control" title="Quality control" src="https://img.shields.io/badge/Quality_control-8a9ba8?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Workflow and process improvement" title="Workflow and process improvement" src="https://img.shields.io/badge/Workflow_and_process_improvement-8a9ba8?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Equipment maintenance" title="Equipment maintenance" src="https://img.shields.io/badge/Equipment_maintenance-8a9ba8?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Training new operators" title="Training new operators" src="https://img.shields.io/badge/Training_new_operators-8a9ba8?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Production supervision" title="Production supervision" src="https://img.shields.io/badge/Production_supervision-8a9ba8?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Inventory control" title="Inventory control" src="https://img.shields.io/badge/Inventory_control-8a9ba8?style=for-the-badge&labelColor=1c1f24">
+</p>
+
+<table class="skill-cards">
+  <tr>
+    <td width="50%" valign="top">
+      <span class="skill-label">🛠️ Machines</span>
+      <p>Amada lasers: 3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation</p>
+    </td>
+    <td width="50%" valign="top">
+      <span class="skill-label">🔩 Materials</span>
+      <p>Stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <span class="skill-label">📏 Thickness</span>
+      <p>Usually 10 gauge to 16 gauge</p>
+    </td>
+    <td width="50%" valign="top">
+      <span class="skill-label">⚙️ Programming</span>
+      <p>CNC laser programming at <a href="https://www.metalworkingsolutions.com/">Metalworking Solutions</a> (current); CAD/CAM programming at Victory Sign Industries</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <span class="skill-label">📐 CAD/CAM</span>
+      <p>CAD/CAM software (used at Victory Sign Industries to turn designs into accurate machine programs)</p>
+    </td>
+    <td width="50%" valign="top">
+      <span class="skill-label">🔧 Setup &amp; machining</span>
+      <p>CNC machine setup, CNC operation, CNC laser operation, manual machining</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <span class="skill-label">🔍 Quality &amp; process</span>
+      <p>Quality control, workflow and process improvement, equipment maintenance</p>
+    </td>
+    <td width="50%" valign="top">
+      <span class="skill-label">👥 Leadership</span>
+      <p>Training new operators, production supervision (20+ people), inventory control</p>
+    </td>
+  </tr>
+</table>
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
