@@ -1002,6 +1002,21 @@ html[data-theme="light"] .theme-toggle-moon {
   aspect-ratio: 3 / 4;
 }
 
+/* Shop Equipment: 2 x 2 grid of single-photo cards (no card title), 1 column on phones */
+.machine-grid.machine-grid-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.machine-grid.machine-grid-2 .machine-photos {
+  padding-top: 12px;
+}
+
+@media (max-width: 600px) {
+  .machine-grid.machine-grid-2 {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* ---------- Stock photos (always labeled, never zoomable) ---------- */
 .markdown-body figure.stock-photo {
   position: relative;
