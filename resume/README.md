@@ -3,15 +3,6 @@
   <img src="../assets/wordmark.svg" alt="Jason Vines. Original decorative steel nameplate artwork — not a photo of parts or equipment." width="100%">
 </p>
 
-<p align="center" class="page-nav">
-  <a href="../">🏠 Home</a> &nbsp;·&nbsp;
-  <a href="../projects/">Projects</a> &nbsp;·&nbsp;
-  <a href="../gallery/">Gallery</a> &nbsp;·&nbsp;
-  <a href="../machines/">Machines</a> &nbsp;·&nbsp;
-  <a href="../resume/">Resume</a> &nbsp;·&nbsp;
-  <a href="../how-it-works/">How It Works</a>
-</p>
-
 <h1 align="center">📄 Resume</h1>
 
 <p align="center">I am a CNC Laser Programmer and Operator with 3+ years of CNC experience, and I am seeking a CNC Programmer role. I currently do CNC laser programming and run the lasers at Metalworking Solutions, in a precision metal fabrication shop. You can also download the full PDF.</p>
