@@ -3,15 +3,6 @@
   <img src="../assets/wordmark.svg" alt="Jason Vines. Original decorative steel nameplate artwork — not a photo of parts or equipment." width="100%">
 </p>
 
-<p align="center" class="page-nav">
-  <a href="../">🏠 Home</a> &nbsp;·&nbsp;
-  <a href="../projects/">Projects</a> &nbsp;·&nbsp;
-  <a href="../gallery/">Gallery</a> &nbsp;·&nbsp;
-  <a href="../machines/">Machines</a> &nbsp;·&nbsp;
-  <a href="../resume/">Resume</a> &nbsp;·&nbsp;
-  <a href="../how-it-works/">How It Works</a>
-</p>
-
 <h1 align="center">📸 Photo Gallery</h1>
 
 <p align="center"><strong>These are photos of parts I have programmed and cut, and of the Amada lasers I run at work. Material and thickness are listed when I know them.</strong></p>
