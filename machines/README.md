@@ -3,15 +3,6 @@
   <img src="../assets/wordmark.svg" alt="Jason Vines. Original decorative steel nameplate artwork — not a photo of parts or equipment." width="100%">
 </p>
 
-<p align="center" class="page-nav">
-  <a href="../">🏠 Home</a> &nbsp;·&nbsp;
-  <a href="../projects/">Projects</a> &nbsp;·&nbsp;
-  <a href="../gallery/">Gallery</a> &nbsp;·&nbsp;
-  <a href="../machines/">Machines</a> &nbsp;·&nbsp;
-  <a href="../resume/">Resume</a> &nbsp;·&nbsp;
-  <a href="../how-it-works/">How It Works</a>
-</p>
-
 <h1 align="center">🏭 Machines I Run</h1>
 
 <p align="center"><strong>Amada lasers: 3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation</strong></p>
@@ -45,7 +36,7 @@
 
 <div class="machine-card">
   <span class="machine-name">Amada FOL 3015 AJ 4kW</span>
-  <div class="machine-photos">
+  <div class="machine-photos machine-photos-natural">
     <a href="../assets/machine-3015-4k.jpg" title="Open the full-size photo">
       <img src="../assets/machine-3015-4k.jpg" alt="Amada FOL 3015 AJ 4kW laser with automation (photo I took at work)" width="100%" loading="lazy">
     </a>
