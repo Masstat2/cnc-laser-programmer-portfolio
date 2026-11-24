@@ -169,10 +169,24 @@
 </figure>
 
 <figure class="photo-tile">
+  <a href="../projects/images/camfil-dust-collector-lcg-3015-aj.jpg" title="Open the full-size photo">
+    <img src="../projects/images/camfil-dust-collector-lcg-3015-aj.jpg" alt="Camfil dust collector that pulls smoke and dust out of the Amada LCG 3015 AJ 6kW laser." width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Camfil dust collector that pulls smoke and dust out of the Amada LCG 3015 AJ 6kW laser.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
   <a href="../projects/images/ensis-3015-aj.jpg" title="Open the full-size photo">
     <img src="../projects/images/ensis-3015-aj.jpg" alt="Gray Amada ENSIS 3015 AJ laser cutting machine in the shop, with an FL 15000 badge on its side panel" width="100%" loading="lazy">
   </a>
   <figcaption class="photo-caption"><em>Amada ENSIS 3015 AJ laser cutting machine, with an FL 15000 badge.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/lc-3015-f1-nt.jpg" title="Open the full-size photo">
+    <img src="../projects/images/lc-3015-f1-nt.jpg" alt="Amada LC 3015 F1 NT laser cutter with its load/unload tower." width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Amada LC 3015 F1 NT laser cutter with its load/unload tower.</em></figcaption>
 </figure>
 
 <figure class="photo-tile">
@@ -225,6 +239,13 @@
 </figure>
 
 <figure class="photo-tile">
+  <a href="../projects/images/nozzle-change-tools.jpg" title="Open the full-size photo">
+    <img src="../projects/images/nozzle-change-tools.jpg" alt="Nozzle change tools for the Amada lasers." width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Nozzle change tools for the Amada lasers.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
   <a href="../projects/images/fo-4020nt-ros-table.jpg" title="Open the full-size photo">
     <img src="../projects/images/fo-4020nt-ros-table.jpg" alt="ROS table on the Amada FO 4020NT, with a fresh metal sheet resting on the slats" width="100%" loading="lazy">
   </a>
@@ -232,10 +253,45 @@
 </figure>
 
 <figure class="photo-tile">
+  <a href="../projects/images/ams-4020-cl.jpg" title="Open the full-size photo">
+    <img src="../projects/images/ams-4020-cl.jpg" alt="Amada AMS 4020 CL automation with a fresh sheet on the load table." width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Amada AMS 4020 CL automation with a fresh sheet on the load table.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/ams-4020-cl-ros-table.jpg" title="Open the full-size photo">
+    <img src="../projects/images/ams-4020-cl-ros-table.jpg" alt="Amada AMS 4020 CL automation with its ROS table." width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Amada AMS 4020 CL automation with its ROS table.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
   <a href="../projects/images/amada-3015-6k-cutting.mp4" title="Play the video (MP4)">
     <img src="../projects/images/amada-3015-6k-cutting.gif" alt="Short looping clip of the Amada 3015 6kW laser cutting sheet metal, with sparks under the cutting head" width="100%" loading="lazy">
   </a>
   <figcaption class="photo-caption"><em>Amada 3015 6kW laser cutting.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/liberty-systems-nitrogen-generator.jpg" title="Open the full-size photo">
+    <img src="../projects/images/liberty-systems-nitrogen-generator.jpg" alt="Tanks and filters for the Liberty Systems nitrogen generator." width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Tanks and filters for the Liberty Systems nitrogen generator.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/liberty-systems-nitrogen-generator-unit.jpg" title="Open the full-size photo">
+    <img src="../projects/images/liberty-systems-nitrogen-generator-unit.jpg" alt="Liberty Systems nitrogen generator in the shop." width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Liberty Systems nitrogen generator in the shop.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/amada-esd-unit.jpg" title="Open the full-size photo">
+    <img src="../projects/images/amada-esd-unit.jpg" alt="Amada ESD (Energy Saving Device) unit in the shop." width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Amada ESD (Energy Saving Device) unit in the shop.</em></figcaption>
 </figure>
 
 </div>

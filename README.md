@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3500&pause=1200&color=FFB000&center=true&vCenter=true&width=700&height=40&lines=CNC+Laser+Programmer+%26+Operator;Stainless+%C2%B7+Aluminum+%C2%B7+HRPO+%C2%B7+Galvanized;Amada+3015+%C2%B7+4020+%C2%B7+F1;Fairview%2C+Georgia" alt="CNC Laser Programmer &amp; Operator at Metalworking Solutions">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3500&pause=1200&color=FFB000&center=true&vCenter=true&width=700&height=40&lines=Stainless+%C2%B7+Aluminum+%C2%B7+HRPO+%C2%B7+Galvanized;Amada+3015+%C2%B7+FO+4020NT+%C2%B7+F1;Fairview%2C+Georgia" alt="CNC Laser Programmer &amp; Operator at Metalworking Solutions">
 </p>
 
 <p align="center">
@@ -128,8 +128,6 @@ The links below go to official Amada pages so you can see the equipment. I have 
 | **F1** | [F1 series](https://www.amada.co.jp/english/products/bankin/laser/lc_f1_nt_series.html) · [Amada Canada](https://www.amada.ca/laser-f1). There is not a current F1 product page on Amada America's website. |
 | **Full automation** | [AMS CL/CLT](https://www.amada.com/america/ams-3015-cl) · [blanking automation](https://www.amada.com/america/blanking-automation) |
 
-I am not claiming a specific Amada model name beyond what I run: 3015 and 4020 beds, 4kW, 6kW, 15kW, F1, and full automation.
-
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
 <p align="center">
@@ -211,7 +209,7 @@ I am not claiming a specific Amada model name beyond what I run: 3015 and 4020 b
     </td>
     <td width="50%" valign="top">
       <span class="skill-label">👥 Leadership</span>
-      <p>Training new operators, production supervision (20+ people), inventory control</p>
+      <p>Training new operators, inventory control</p>
     </td>
   </tr>
 </table>
@@ -295,7 +293,6 @@ I am not claiming a specific Amada model name beyond what I run: 3015 and 4020 b
     <p><strong>Old Mill Kettle Corn</strong> — Chickamauga, GA</p>
     <p class="timeline-dates"><em>March 2020 – January 2023</em></p>
     <ul>
-      <li>Led a team of 20+ employees to achieve 95% production efficiency</li>
       <li>Trained staff, reducing errors by 40%; collaborated with engineering to improve product quality by 20%</li>
       <li>Managed inventory, cutting costs by 15% annually; achieved a 98% on-time delivery rate</li>
     </ul>
@@ -534,6 +531,62 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
         <img src="projects/images/fo-4020nt-ros-table.jpg" alt="ROS table on the Amada FO 4020NT, with a fresh metal sheet resting on the slats" width="100%">
       </a>
       <br><em>ROS table on the Amada FO 4020NT, with a fresh sheet on the slats.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/ams-4020-cl.jpg" title="Open the full-size photo">
+        <img src="projects/images/ams-4020-cl.jpg" alt="Amada AMS 4020 CL automation with a fresh sheet on the load table." width="63%">
+      </a>
+      <br><em>Amada AMS 4020 CL automation with a fresh sheet on the load table.</em>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/ams-4020-cl-ros-table.jpg" title="Open the full-size photo">
+        <img src="projects/images/ams-4020-cl-ros-table.jpg" alt="Amada AMS 4020 CL automation with its ROS table." width="100%">
+      </a>
+      <br><em>Amada AMS 4020 CL automation with its ROS table.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/liberty-systems-nitrogen-generator.jpg" title="Open the full-size photo">
+        <img src="projects/images/liberty-systems-nitrogen-generator.jpg" alt="Tanks and filters for the Liberty Systems nitrogen generator." width="90%">
+      </a>
+      <br><em>Tanks and filters for the Liberty Systems nitrogen generator.</em>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/liberty-systems-nitrogen-generator-unit.jpg" title="Open the full-size photo">
+        <img src="projects/images/liberty-systems-nitrogen-generator-unit.jpg" alt="Liberty Systems nitrogen generator in the shop." width="66%">
+      </a>
+      <br><em>Liberty Systems nitrogen generator in the shop.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/amada-esd-unit.jpg" title="Open the full-size photo">
+        <img src="projects/images/amada-esd-unit.jpg" alt="Amada ESD (Energy Saving Device) unit in the shop." width="80%">
+      </a>
+      <br><em>Amada ESD (Energy Saving Device) unit in the shop.</em>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/lc-3015-f1-nt.jpg" title="Open the full-size photo">
+        <img src="projects/images/lc-3015-f1-nt.jpg" alt="Amada LC 3015 F1 NT laser cutter with its load/unload tower." width="79%">
+      </a>
+      <br><em>Amada LC 3015 F1 NT laser cutter with its load/unload tower.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/camfil-dust-collector-lcg-3015-aj.jpg" title="Open the full-size photo">
+        <img src="projects/images/camfil-dust-collector-lcg-3015-aj.jpg" alt="Camfil dust collector that pulls smoke and dust out of the Amada LCG 3015 AJ 6kW laser." width="70%">
+      </a>
+      <br><em>Camfil dust collector that pulls smoke and dust out of the Amada LCG 3015 AJ 6kW laser.</em>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/nozzle-change-tools.jpg" title="Open the full-size photo">
+        <img src="projects/images/nozzle-change-tools.jpg" alt="Nozzle change tools for the Amada lasers." width="64%">
+      </a>
+      <br><em>Nozzle change tools for the Amada lasers.</em>
     </td>
   </tr>
 </table>

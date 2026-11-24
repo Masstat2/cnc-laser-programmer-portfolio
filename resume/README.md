@@ -74,7 +74,7 @@
     </td>
     <td width="50%" valign="top">
       <span class="skill-label">👥 Leadership</span>
-      <p>Training new operators, production supervision (20+ people), inventory control</p>
+      <p>Training new operators, inventory control</p>
     </td>
   </tr>
 </table>
@@ -153,7 +153,6 @@
     <p><strong>Old Mill Kettle Corn</strong> — Chickamauga, GA</p>
     <p class="timeline-dates"><em>March 2020 – January 2023</em></p>
     <ul>
-      <li>Led a team of 20+ employees to achieve 95% production efficiency</li>
       <li>Trained staff, reducing errors by 40%; collaborated with engineering to improve product quality by 20%</li>
       <li>Managed inventory, cutting costs by 15% annually; achieved a 98% on-time delivery rate</li>
     </ul>

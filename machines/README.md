@@ -74,12 +74,16 @@
     <a href="../projects/images/x-direction-conveyor.jpg" title="Open the full-size photo">
       <img src="../projects/images/x-direction-conveyor.jpg" alt="Amada X-direction conveyor dropping scrap and small parts into a bin beside the machine" width="100%" loading="lazy">
     </a>
+    <a href="../projects/images/camfil-dust-collector-lcg-3015-aj.jpg" title="Open the full-size photo">
+      <img src="../projects/images/camfil-dust-collector-lcg-3015-aj.jpg" alt="Camfil dust collector that pulls smoke and dust out of the Amada LCG 3015 AJ 6kW laser." width="100%" loading="lazy">
+    </a>
   </div>
   <div class="machine-text">
     <p><em>Amada LCG 3015 AJ 6kW laser cutter.</em></p>
     <p><em>Amada 3015 6kW laser cutting.</em></p>
     <p><em>AMNC 3i control on the Amada 3015 6kW laser.</em></p>
     <p><em>Amada X-direction conveyor, which carries scrap and small parts out of the machine.</em></p>
+    <p><em>Camfil dust collector that pulls smoke and dust out of the Amada LCG 3015 AJ 6kW laser.</em></p>
   </div>
 </div>
 
@@ -116,6 +120,22 @@
 </div>
 
 <div class="machine-card">
+  <span class="machine-name">Amada AMS 4020 CL</span>
+  <div class="machine-photos">
+    <a href="../projects/images/ams-4020-cl.jpg" title="Open the full-size photo">
+      <img src="../projects/images/ams-4020-cl.jpg" alt="Amada AMS 4020 CL automation with a fresh sheet on the load table." width="100%" loading="lazy">
+    </a>
+    <a href="../projects/images/ams-4020-cl-ros-table.jpg" title="Open the full-size photo">
+      <img src="../projects/images/ams-4020-cl-ros-table.jpg" alt="Amada AMS 4020 CL automation with its ROS table." width="100%" loading="lazy">
+    </a>
+  </div>
+  <div class="machine-text">
+    <p><em>Amada AMS 4020 CL automation with a fresh sheet on the load table.</em></p>
+    <p><em>Amada AMS 4020 CL automation with its ROS table.</em></p>
+  </div>
+</div>
+
+<div class="machine-card">
   <span class="machine-name">Amada ENSIS 3015 AJ</span>
   <div class="machine-photos">
     <a href="../projects/images/ensis-3015-aj.jpg" title="Open the full-size photo">
@@ -128,14 +148,15 @@
   </div>
 </div>
 
-<div class="machine-card machine-card-text machine-card-stock">
-  <span class="machine-name">Amada F1</span>
-  <figure class="stock-photo stock-card">
-    <img src="../assets/stock/stock-perforated-metal-sheet.jpg" alt="Stock photo: perforated metal sheet" width="100%" loading="lazy">
-    <span class="stock-tag" aria-hidden="true">Stock photo</span>
-    <figcaption class="stock-credit">Stock photo: perforated metal sheet. <a href="https://www.pexels.com/photo/metallic-perforated-surface-with-circular-pattern-34996983/">Photo by Tim Mossholder on Pexels</a></figcaption>
-  </figure>
+<div class="machine-card">
+  <span class="machine-name">Amada LC 3015 F1 NT</span>
+  <div class="machine-photos">
+    <a href="../projects/images/lc-3015-f1-nt.jpg" title="Open the full-size photo">
+      <img src="../projects/images/lc-3015-f1-nt.jpg" alt="Amada LC 3015 F1 NT laser cutter with its load/unload tower." width="100%" loading="lazy">
+    </a>
+  </div>
   <div class="machine-text">
+    <p><em>Amada LC 3015 F1 NT laser cutter with its load/unload tower.</em></p>
     <p><a href="https://www.amada.co.jp/english/products/bankin/laser/lc_f1_nt_series.html">F1 series</a> · <a href="https://www.amada.ca/laser-f1">Amada Canada</a>. There is not a current F1 product page on Amada America's website.</p>
   </div>
 </div>
