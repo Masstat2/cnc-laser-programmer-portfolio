@@ -63,6 +63,9 @@
   <a href="#core-skills">Skills</a> &nbsp;·&nbsp;
   <a href="#work-experience">Experience</a> &nbsp;·&nbsp;
   <a href="./projects/">Projects</a> &nbsp;·&nbsp;
+  <a href="./gallery/">Gallery</a> &nbsp;·&nbsp;
+  <a href="./machines/">Machines</a> &nbsp;·&nbsp;
+  <a href="./resume/">Resume</a> &nbsp;·&nbsp;
   <a href="./tips/">Quick Reference</a> &nbsp;·&nbsp;
   <a href="./resources/HELPFUL_LINKS.html">Helpful Links</a> &nbsp;·&nbsp;
   <a href="#contact">Contact</a>
@@ -467,7 +470,9 @@ Write-ups for parts 01–04 are on the [projects](./projects/) page: [formed cha
 
 - [📐 Laser Cutting Quick Reference](./tips/README.md) — a gauge-to-thickness chart and general programming and nesting tips
 - [🔗 Helpful Links](./resources/HELPFUL_LINKS.md) — free laser cutting, nesting, and safety resources from other sources, with credit to each one
-- [📄 Resume (PDF)](./resume/Jason_Vines_Resume.pdf)
+- [📸 Photo Gallery](./gallery/) — every part and machine photo in one place
+- [🏭 Machines I Run](./machines/) — the Amada lasers and automation I run, with photos
+- [📄 Resume](./resume/) — my resume on one page · [PDF](./resume/Jason_Vines_Resume.pdf)
 
 <p align="center">
   <img src="assets/divider-kerf.svg" alt="" width="100%">

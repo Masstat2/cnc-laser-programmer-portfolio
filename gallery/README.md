@@ -1,0 +1,178 @@
+<a id="top"></a>
+<p align="center">
+  <img src="../assets/wordmark.svg" alt="Jason Vines. Original decorative steel nameplate artwork — not a photo of parts or equipment." width="100%">
+</p>
+
+<p align="center" class="page-nav">
+  <a href="../">🏠 Home</a> &nbsp;·&nbsp;
+  <a href="../projects/">Projects</a> &nbsp;·&nbsp;
+  <a href="../gallery/">Gallery</a> &nbsp;·&nbsp;
+  <a href="../machines/">Machines</a> &nbsp;·&nbsp;
+  <a href="../resume/">Resume</a>
+</p>
+
+<h1 align="center">📸 Photo Gallery</h1>
+
+<p align="center"><strong>Every part and machine photo from my portfolio, in one place.</strong></p>
+
+<p align="center">
+  <img alt="Parts" title="Parts" src="https://img.shields.io/badge/Parts-Programmed_and_Cut-ff8a00?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Amada lasers" title="Amada lasers" src="https://img.shields.io/badge/Amada-3015_%7C_4020-e8edf2?style=for-the-badge&labelColor=1c1f24">
+</p>
+
+<p align="center"><em>Click any photo to zoom in. Use the arrows to flip through them.</em></p>
+
+<p align="center">
+  <img src="../assets/divider-kerf-animated.svg" alt="" width="100%">
+</p>
+
+<a id="parts"></a>
+## 🔩 Parts
+
+<div class="photo-grid">
+
+<figure class="photo-tile">
+  <a href="../projects/images/part-01.jpg" title="Open the full-size photo">
+    <img src="../projects/images/part-01.jpg" alt="Formed channels with laser-cut holes, slots, and notches — 14 ga HRPO" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Formed channels — 14 ga HRPO</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/part-02.jpg" title="Open the full-size photo">
+    <img src="../projects/images/part-02.jpg" alt="Formed channels with laser-cut slots and cutouts — 14 ga HRPO" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Formed channels with slots and cutouts — 14 ga HRPO</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/part-03.jpg" title="Open the full-size photo">
+    <img src="../projects/images/part-03.jpg" alt="Large curved panels — 14 ga HRPO" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Large curved panels — 14 ga HRPO</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/part-04.jpg" title="Open the full-size photo">
+    <img src="../projects/images/part-04.jpg" alt="Laser-cut bottle opener — 11 ga stainless steel" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Laser-cut bottle opener — 11 ga stainless steel</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/skeleton-12ga-hrpo.jpg" title="Open the full-size photo">
+    <img src="../projects/images/skeleton-12ga-hrpo.jpg" alt="Leftover 12 gauge HRPO sheet skeleton on the laser bed slats after a nested cutting run, with rows of cut-out strips and holes" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>12 gauge HRPO (hot-rolled, pickled and oiled) skeleton after a nested run on the laser.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/slider-door-latch-12ga.jpg" title="Open the full-size photo">
+    <img src="../projects/images/slider-door-latch-12ga.jpg" alt="Laser-cut slider door latch part made from 12 gauge steel" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Slider door latch cut from 12 gauge steel on the Amada 4020 laser.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/galvanized-strips-16ga.jpg" title="Open the full-size photo">
+    <img src="../projects/images/galvanized-strips-16ga.jpg" alt="Strips of 16 gauge galvanized sheet metal cut on the laser" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>16 gauge galvanized strips cut on the laser.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/galvanized-plate-14ga.jpg" title="Open the full-size photo">
+    <img src="../projects/images/galvanized-plate-14ga.jpg" alt="14 gauge galvanized plate cut on the laser, with an Amada unloader in the background" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>14 gauge galvanized plate cut on the laser, with the Amada AMS 3015 ROS unloader in the background.</em></figcaption>
+</figure>
+
+</div>
+
+<p align="center">
+  <img src="../assets/divider-kerf.svg" alt="" width="100%">
+</p>
+
+<a id="machines"></a>
+## 🏭 Machines
+
+<div class="photo-grid">
+
+<figure class="photo-tile">
+  <a href="../assets/machine-3015-4k.jpg" title="Open the full-size photo">
+    <img src="../assets/machine-3015-4k.jpg" alt="Amada 3015 4K laser with automation (photo I took at work)" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Amada 3015 4K laser with automation (photo I took at work)</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../assets/tower-as-lul.jpg" title="Open the full-size photo">
+    <img src="../assets/tower-as-lul.jpg" alt="Amada AS-LUL tower automation (photo I took at work)" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Amada AS-LUL tower automation (photo I took at work)</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/amada-fo-4020nt-full-machine.jpg" title="Open the full-size photo">
+    <img src="../projects/images/amada-fo-4020nt-full-machine.jpg" alt="Full view of the red Amada FO-4020NT laser cutter in the shop, with its operator console on the left" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Amada FO-4020NT laser cutter in the shop.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/amada-lcg-3015aj-6kw-full-machine.jpg" title="Open the full-size photo">
+    <img src="../projects/images/amada-lcg-3015aj-6kw-full-machine.jpg" alt="Full view of the gray Amada LCG 3015AJ 6kW laser cutter in the shop, with its operator console in front" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Amada LCG 3015AJ 6kW laser cutter.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/amada-as-lul-3015-table-clearing.jpg" title="Open the full-size photo">
+    <img src="../projects/images/amada-as-lul-3015-table-clearing.jpg" alt="Amada AS-LUL 3015 load/unload tower in the shop, waiting for the table to be cleared" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Amada AS-LUL 3015 load/unload tower waiting for table clearing.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/amada-4020-laser-head.jpg" title="Open the full-size photo">
+    <img src="../projects/images/amada-4020-laser-head.jpg" alt="Red Amada LASMAC cutting head on the 4020 laser, cutting a sheet of metal with sparks under the nozzle" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Amada 4020 LASMAC cutting head at work.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/amada-4020-operator-console.jpg" title="Open the full-size photo">
+    <img src="../projects/images/amada-4020-operator-console.jpg" alt="Amada operator console on the 4020 laser, with its touch screen, control buttons, and keyboard" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Operator console on the Amada 4020 laser.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/amada-4020-output-side.jpg" title="Open the full-size photo">
+    <img src="../projects/images/amada-4020-output-side.jpg" alt="Output side of the Amada 4020 laser, with a fresh sheet of metal on the shuttle table" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Output side of the Amada 4020 laser, with a fresh sheet on the shuttle table.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/amada-3015-6k-cutting.mp4" title="Play the video (MP4)">
+    <img src="../projects/images/amada-3015-6k-cutting.gif" alt="Short looping clip of the Amada 3015 6K laser cutting sheet metal, with sparks under the cutting head" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Amada 3015 6K laser cutting.</em></figcaption>
+</figure>
+
+</div>
+
+Write-ups for parts 01–04 are on the [projects](../projects/) page.
+
+<p align="center">
+  <img src="../assets/divider-kerf.svg" alt="" width="100%">
+</p>
+
+<p align="center">⬅️ <a href="../">Back to my portfolio</a></p>
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+<p align="center">
+  <img src="../assets/footer-wave.svg" alt="Fairview, Georgia" width="100%">
+</p>
