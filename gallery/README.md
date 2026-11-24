@@ -13,7 +13,7 @@
 
 <h1 align="center">📸 Photo Gallery</h1>
 
-<p align="center"><strong>Every part and machine photo from my portfolio, in one place.</strong></p>
+<p align="center"><strong>These are photos of parts I have programmed and cut, and of the Amada lasers I run at work. Material and thickness are listed when I know them.</strong></p>
 
 <p align="center">
   <img alt="Parts" title="Parts" src="https://img.shields.io/badge/Parts-Programmed_and_Cut-ff8a00?style=for-the-badge&labelColor=1c1f24">
@@ -21,6 +21,12 @@
 </p>
 
 <p align="center"><em>Click any photo to zoom in. Use the arrows to flip through them.</em></p>
+
+<figure class="stock-photo stock-banner">
+  <img src="../assets/stock/stock-diamond-plate-texture.jpg" alt="Stock photo: diamond-plate metal texture" width="100%" loading="lazy">
+  <span class="stock-tag" aria-hidden="true">Stock photo</span>
+  <figcaption class="stock-credit">Stock photo: diamond-plate metal texture. <a href="https://www.pexels.com/photo/metal-diamond-plate-texture-background-31413499/">Photo by David Underland on Pexels</a></figcaption>
+</figure>
 
 <p align="center">
   <img src="../assets/divider-kerf-animated.svg" alt="" width="100%">

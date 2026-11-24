@@ -13,11 +13,17 @@
 
 <h1 align="center">📄 Resume</h1>
 
-<p align="center"><strong>The text of my resume, on one page.</strong></p>
+<p align="center">I am a CNC Laser Programmer and Operator with 3+ years of CNC experience, and I am seeking a CNC Programmer role. I currently do CNC laser programming and run the lasers at Metalworking Solutions, in a precision metal fabrication shop. You can also download the full PDF.</p>
 
 <p align="center">
-  <a class="btn-resume" href="Jason_Vines_Resume.pdf">Download Resume</a>
+  <a class="btn-resume" href="Jason_Vines_Resume.pdf">Download Resume (PDF)</a>
 </p>
+
+<figure class="stock-photo stock-banner">
+  <img src="../assets/stock/stock-perforated-metal-closeup.jpg" alt="Stock photo: close-up of perforated metal" width="100%" loading="lazy">
+  <span class="stock-tag" aria-hidden="true">Stock photo</span>
+  <figcaption class="stock-credit">Stock photo: close-up of perforated metal. <a href="https://www.pexels.com/photo/close-up-photo-of-a-metal-2798152/">Photo by Brett Sayles on Pexels</a></figcaption>
+</figure>
 
 <p align="center">
   <img src="../assets/divider-kerf-animated.svg" alt="" width="100%">
@@ -25,8 +31,8 @@
 
 <div class="resume-head">
   <p class="resume-name">JASON VINES</p>
-  <p class="resume-contact">Fairview, GA &nbsp;|&nbsp; <a href="mailto:masstat.jv@gmail.com">masstat.jv@gmail.com</a></p>
-  <p class="resume-contact"><a href="https://github.com/Masstat2">GitHub</a> &nbsp;·&nbsp; <a href="https://masstat2.github.io/cnc-laser-programmer-portfolio/">Portfolio website</a></p>
+  <p class="resume-contact">Fairview, Georgia &nbsp;·&nbsp; <a href="mailto:masstat.jv@gmail.com">masstat.jv@gmail.com</a> &nbsp;·&nbsp; GitHub: <a href="https://github.com/Masstat2">github.com/Masstat2</a></p>
+  <p class="resume-contact"><a href="https://masstat2.github.io/cnc-laser-programmer-portfolio/">Portfolio website</a></p>
 </div>
 
 <a id="professional-summary"></a>
@@ -191,7 +197,7 @@
 </div>
 
 <p align="center">
-  <a class="btn-resume" href="Jason_Vines_Resume.pdf">Download Resume</a>
+  <a class="btn-resume" href="Jason_Vines_Resume.pdf">Download Resume (PDF)</a>
 </p>
 
 <p align="center">

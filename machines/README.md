@@ -23,7 +23,15 @@
   <img alt="Full automation" title="Full automation" src="https://img.shields.io/badge/Full_automation-e3983a?style=for-the-badge&labelColor=1c1f24">
 </p>
 
+<p align="center">At <a href="https://www.metalworkingsolutions.com/">Metalworking Solutions</a>, I do CNC laser programming and I run the lasers, including machines with full automation. I cut stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel, usually from 10 gauge to 16 gauge.</p>
+
 <p align="center"><em>Click any photo to zoom in.</em></p>
+
+<figure class="stock-photo stock-banner">
+  <img src="../assets/stock/stock-coiled-sheet-metal-factory.jpg" alt="Stock photo: coiled sheet metal in a factory" width="100%" loading="lazy">
+  <span class="stock-tag" aria-hidden="true">Stock photo</span>
+  <figcaption class="stock-credit">Stock photo: coiled sheet metal in a factory. <a href="https://www.pexels.com/photo/industrial-metal-rolls-in-a-factory-setting-37598393/">Photo by Nithina Palanisamy on Pexels</a></figcaption>
+</figure>
 
 <p align="center">
   <img src="../assets/divider-kerf-animated.svg" alt="" width="100%">
@@ -102,8 +110,13 @@
   </div>
 </div>
 
-<div class="machine-card machine-card-text">
+<div class="machine-card machine-card-text machine-card-stock">
   <span class="machine-name">Amada F1</span>
+  <figure class="stock-photo stock-card">
+    <img src="../assets/stock/stock-perforated-metal-sheet.jpg" alt="Stock photo: perforated metal sheet" width="100%" loading="lazy">
+    <span class="stock-tag" aria-hidden="true">Stock photo</span>
+    <figcaption class="stock-credit">Stock photo: perforated metal sheet. <a href="https://www.pexels.com/photo/metallic-perforated-surface-with-circular-pattern-34996983/">Photo by Tim Mossholder on Pexels</a></figcaption>
+  </figure>
   <div class="machine-text">
     <p><a href="https://www.amada.co.jp/english/products/bankin/laser/lc_f1_nt_series.html">F1 series</a> · <a href="https://www.amada.ca/laser-f1">Amada Canada</a>. There is not a current F1 product page on Amada America's website.</p>
   </div>
@@ -157,8 +170,13 @@
   </div>
 </div>
 
-<div class="machine-card machine-card-text">
+<div class="machine-card machine-card-text machine-card-stock">
   <span class="machine-name">Full automation</span>
+  <figure class="stock-photo stock-card">
+    <img src="../assets/stock/stock-painted-metal-with-holes.jpg" alt="Stock photo: painted metal sheet with cut holes" width="100%" loading="lazy">
+    <span class="stock-tag" aria-hidden="true">Stock photo</span>
+    <figcaption class="stock-credit">Stock photo: painted metal sheet with cut holes. <a href="https://www.pexels.com/photo/textured-background-of-grunge-metal-wall-with-holes-4455007/">Photo by Brett Sayles on Pexels</a></figcaption>
+  </figure>
   <div class="machine-text">
     <p><a href="https://www.amada.com/america/ams-3015-cl">AMS CL/CLT</a> · <a href="https://www.amada.com/america/blanking-automation">blanking automation</a></p>
   </div>
