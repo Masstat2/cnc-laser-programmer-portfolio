@@ -308,6 +308,14 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
       <br><em>14 gauge galvanized plate cut on the laser, with the Amada AMS 3015 ROS unloader in the background.</em>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="projects/images/amada-as-lul-3015-table-clearing.jpg" title="Open the full-size photo">
+        <img src="projects/images/amada-as-lul-3015-table-clearing.jpg" alt="Amada AS-LUL 3015 load/unload tower in the shop, waiting for the table to be cleared" width="49%">
+      </a>
+      <br><em>Amada AS-LUL 3015 load/unload tower waiting for table clearing.</em>
+    </td>
+  </tr>
 </table>
 
 More notes about each part are in the [projects](./projects/) folder.
