@@ -60,7 +60,7 @@
   <tr>
     <td width="50%" valign="top">
       <span class="skill-label">🔩 Materials</span>
-      <p>Stainless steel, aluminum, and HRPO steel, usually 10 gauge to 16 gauge</p>
+      <p>Stainless steel, aluminum, HRPO steel, and galvanized steel, usually 22 gauge sheet up to 10 gauge, and plate from 1/8 inch to 1 1/4 inch</p>
     </td>
     <td width="50%" valign="top">
       <span class="skill-label">🔧 Setup &amp; Machining</span>
@@ -97,7 +97,7 @@
     <ul>
       <li>Handle CNC laser programming for the shop</li>
       <li>Run Amada lasers (3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation) on 2nd shift in a precision metal fabrication shop</li>
-      <li>Program and cut stainless steel, aluminum, and HRPO steel, usually 10 gauge to 16 gauge</li>
+      <li>Program and cut stainless steel, aluminum, HRPO steel, and galvanized steel, usually 22 gauge sheet up to 10 gauge, and plate from 1/8 inch to 1 1/4 inch</li>
       <li>Apply setup, quality-control, and machine-maintenance experience to keep jobs accurate and on schedule</li>
     </ul>
   </div>

@@ -20,14 +20,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3500&pause=1200&color=FFB000&center=true&vCenter=true&width=700&height=40&lines=CNC+Laser+Programmer+%26+Operator;Stainless+%C2%B7+Aluminum+%C2%B7+HRPO;Amada+3015+%C2%B7+4020+%C2%B7+F1;Fairview%2C+Georgia" alt="CNC Laser Programmer &amp; Operator at Metalworking Solutions">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3500&pause=1200&color=FFB000&center=true&vCenter=true&width=700&height=40&lines=CNC+Laser+Programmer+%26+Operator;Stainless+%C2%B7+Aluminum+%C2%B7+HRPO+%C2%B7+Galvanized;Amada+3015+%C2%B7+4020+%C2%B7+F1;Fairview%2C+Georgia" alt="CNC Laser Programmer &amp; Operator at Metalworking Solutions">
 </p>
 
 <p align="center">
   <img alt="CNC Laser Programming" title="CNC laser programming" src="https://img.shields.io/badge/CNC-Laser_Programming-ff8a00?style=for-the-badge&labelColor=1c1f24">
-  <img alt="Amada Lasers" title="Amada 3015, 4020 and F1" src="https://img.shields.io/badge/Amada-3015_%7C_4020_%7C_F1-e8edf2?style=for-the-badge&labelColor=1c1f24">
-  <img alt="Materials" title="Stainless steel, aluminum, and HRPO" src="https://img.shields.io/badge/Materials-Stainless_%7C_Aluminum_%7C_HRPO-d2b48c?style=for-the-badge&labelColor=1c1f24">
-  <img alt="Thickness" title="Usually 10 gauge to 16 gauge" src="https://img.shields.io/badge/Thickness-10_to_16_gauge-c5d0d8?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Amada Lasers" title="Amada 3015, FO 4020NT and F1" src="https://img.shields.io/badge/Amada-3015_%7C_FO_4020NT_%7C_F1-e8edf2?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Materials" title="Stainless steel, aluminum, HRPO, and galvanized steel" src="https://img.shields.io/badge/Materials-Stainless_%7C_Aluminum_%7C_HRPO_%7C_Galvanized-d2b48c?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Thickness" title="Usually 22 gauge sheet up to 10 gauge" src="https://img.shields.io/badge/Thickness-10%E2%80%9322_gauge-c5d0d8?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Plate" title="Plate from 1/8 inch to 1 1/4 inch" src="https://img.shields.io/badge/Plate-1%2F8_in_%E2%80%93_1_1%2F4_in-c5d0d8?style=for-the-badge&labelColor=1c1f24">
 </p>
 
 <p align="center">📍 Fairview, Georgia &nbsp;·&nbsp; ✉️ <a href="mailto:masstat.jv@gmail.com">masstat.jv@gmail.com</a> &nbsp;·&nbsp; <a href="https://github.com/Masstat2">GitHub</a></p>
@@ -54,8 +55,12 @@
     <div class="stat-label">Amada lasers</div>
   </div>
   <div class="stat-tile">
-    <div class="stat-value">10 to 16 gauge</div>
+    <div class="stat-value">10–22 gauge</div>
     <div class="stat-label">Thickness</div>
+  </div>
+  <div class="stat-tile">
+    <div class="stat-value">1/8 – 1 1/4 in</div>
+    <div class="stat-label">Plate</div>
   </div>
 </div>
 
@@ -81,7 +86,7 @@
 <a id="what-i-do"></a>
 ## 🔧 What I Do
 
-At [Metalworking Solutions](https://www.metalworkingsolutions.com/), I do CNC laser programming and I run the lasers, including machines with full automation. I cut stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel, usually from 10 gauge to 16 gauge.
+At [Metalworking Solutions](https://www.metalworkingsolutions.com/), I do CNC laser programming and I run the lasers, including machines with full automation. I cut stainless steel, aluminum, HRPO (hot rolled pickled and oiled) steel, and galvanized steel, usually from 22 gauge sheet up to 10 gauge, and plate from 1/8 inch to 1 1/4 inch.
 
 CNC Laser Programmer &amp; Operator with 3+ years of CNC experience. I am seeking a CNC Programmer role.
 
@@ -98,10 +103,10 @@ Previously, I did CAD/CAM programming and machine setup at Victory Sign Industri
   <tr>
     <td width="50%" valign="top">
       <a href="assets/machine-3015-4k.jpg" title="Open the full-size photo">
-        <img src="assets/machine-3015-4k.jpg" alt="Amada 3015 4kW laser with automation (photo I took at work)" width="100%">
+        <img src="assets/machine-3015-4k.jpg" alt="Amada FOL 3015 AJ 4kW laser with automation (photo I took at work)" width="100%">
       </a>
       <br>
-      <em>Amada 3015 4kW laser with automation (photo I took at work)</em>
+      <em>Amada FOL 3015 AJ 4kW laser with automation (photo I took at work)</em>
     </td>
     <td width="50%" valign="top">
       <a href="assets/tower-as-lul.jpg" title="Open the full-size photo">
@@ -147,7 +152,9 @@ I am not claiming a specific Amada model name beyond what I run: 3015 and 4020 b
   <img alt="Stainless steel" title="Stainless steel" src="https://img.shields.io/badge/Stainless_steel-d2b48c?style=for-the-badge&labelColor=1c1f24">
   <img alt="Aluminum" title="Aluminum" src="https://img.shields.io/badge/Aluminum-d2b48c?style=for-the-badge&labelColor=1c1f24">
   <img alt="HRPO" title="HRPO (hot rolled pickled and oiled) steel" src="https://img.shields.io/badge/HRPO-d2b48c?style=for-the-badge&labelColor=1c1f24">
-  <img alt="Usually 10 gauge to 16 gauge" title="Usually 10 gauge to 16 gauge" src="https://img.shields.io/badge/10_to_16_gauge-c5d0d8?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Galvanized" title="Galvanized steel" src="https://img.shields.io/badge/Galvanized-d2b48c?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Usually 22 gauge sheet up to 10 gauge" title="Usually 22 gauge sheet up to 10 gauge" src="https://img.shields.io/badge/10%E2%80%9322_gauge-c5d0d8?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Plate from 1/8 inch to 1 1/4 inch" title="Plate from 1/8 inch to 1 1/4 inch" src="https://img.shields.io/badge/1%2F8_in_%E2%80%93_1_1%2F4_in_plate-c5d0d8?style=for-the-badge&labelColor=1c1f24">
 </p>
 <p align="center" class="skill-badges">
   <img alt="CNC laser programming" title="CNC laser programming" src="https://img.shields.io/badge/CNC_laser_programming-ff8a00?style=for-the-badge&labelColor=1c1f24">
@@ -174,13 +181,13 @@ I am not claiming a specific Amada model name beyond what I run: 3015 and 4020 b
     </td>
     <td width="50%" valign="top">
       <span class="skill-label">🔩 Materials</span>
-      <p>Stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel</p>
+      <p>Stainless steel, aluminum, HRPO (hot rolled pickled and oiled) steel, and galvanized steel</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <span class="skill-label">📏 Thickness</span>
-      <p>Usually 10 gauge to 16 gauge</p>
+      <p>Usually 22 gauge sheet up to 10 gauge, and plate from 1/8 inch to 1 1/4 inch</p>
     </td>
     <td width="50%" valign="top">
       <span class="skill-label">⚙️ Programming</span>
@@ -229,7 +236,7 @@ I am not claiming a specific Amada model name beyond what I run: 3015 and 4020 b
     <ul>
       <li>Program the CNC lasers for the shop</li>
       <li>Run Amada lasers (3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation) on 2nd shift in a precision metal fabrication shop</li>
-      <li>Program and cut stainless steel, aluminum, and HRPO steel, usually 10 gauge to 16 gauge</li>
+      <li>Program and cut stainless steel, aluminum, HRPO steel, and galvanized steel, usually 22 gauge sheet up to 10 gauge, and plate from 1/8 inch to 1 1/4 inch</li>
       <li>Apply setup, quality-control, and machine-maintenance experience to keep jobs accurate and on schedule</li>
     </ul>
   </div>
@@ -485,6 +492,48 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
         <img src="projects/images/ensis-3015-aj.jpg" alt="Gray Amada ENSIS 3015 AJ laser cutting machine in the shop, with an FL 15000 badge on its side panel" width="96%">
       </a>
       <br><em>Amada ENSIS 3015 AJ laser cutting machine, with an FL 15000 badge.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/fol-3015-aj-4kw.jpg" title="Open the full-size photo">
+        <img src="projects/images/fol-3015-aj-4kw.jpg" alt="Amada FOL 3015 AJ 4kW laser cutter in the shop, with its red automation tower behind it" width="87%">
+      </a>
+      <br><em>Amada FOL 3015 AJ 4kW laser cutter with its automation tower.</em>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/as-lul-3015-controller.jpg" title="Open the full-size photo">
+        <img src="projects/images/as-lul-3015-controller.jpg" alt="Operator control panel on the Amada AS LUL 3015 load/unload tower, with its screen, keypad and buttons" width="100%">
+      </a>
+      <br><em>Operator control panel on the Amada AS LUL 3015 load/unload tower.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/x-direction-conveyor.jpg" title="Open the full-size photo">
+        <img src="projects/images/x-direction-conveyor.jpg" alt="Amada X-direction conveyor dropping scrap and small parts into a bin beside the machine" width="70%">
+      </a>
+      <br><em>Amada X-direction conveyor, which carries scrap and small parts out of the machine.</em>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/as-lul-3015-console.jpg" title="Open the full-size photo">
+        <img src="projects/images/as-lul-3015-console.jpg" alt="Control terminal for the Amada AS LUL 3015 load/unload tower, with its screen and keyboard" width="69%">
+      </a>
+      <br><em>Control terminal for the Amada AS LUL 3015 load/unload tower.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/fo-4020nt-nozzle.jpg" title="Open the full-size photo">
+        <img src="projects/images/fo-4020nt-nozzle.jpg" alt="Close-up of a cutting nozzle for the Amada FO 4020NT laser, sitting on a steel workbench" width="52%">
+      </a>
+      <br><em>Cutting nozzle for the Amada FO 4020NT laser.</em>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/fo-4020nt-ros-table.jpg" title="Open the full-size photo">
+        <img src="projects/images/fo-4020nt-ros-table.jpg" alt="ROS table on the Amada FO 4020NT, with a fresh metal sheet resting on the slats" width="100%">
+      </a>
+      <br><em>ROS table on the Amada FO 4020NT, with a fresh sheet on the slats.</em>
     </td>
   </tr>
 </table>

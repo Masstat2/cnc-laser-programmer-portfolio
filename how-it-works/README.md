@@ -28,7 +28,7 @@
 </p>
 
 <div class="steps-intro">
-  <p>I work at <a href="https://www.metalworkingsolutions.com/">Metalworking Solutions</a>. I do CNC laser programming, and I run the lasers too, including machines with full automation. CNC means the machine follows a computer program. I cut stainless steel, aluminum, and HRPO, which is hot rolled pickled and oiled steel, usually from 10 gauge to 16 gauge. Gauge is a number that stands for how thick the sheet is.</p>
+  <p>I work at <a href="https://www.metalworkingsolutions.com/">Metalworking Solutions</a>. I do CNC laser programming, and I run the lasers too, including machines with full automation. CNC means the machine follows a computer program. I cut stainless steel, aluminum, HRPO, which is hot rolled pickled and oiled steel, and galvanized steel, usually from 22 gauge sheet up to 10 gauge, and plate from 1/8 inch to 1 1/4 inch. Gauge is a number that stands for how thick the sheet is.</p>
   <p>A laser job usually follows four steps: the nest, the cut, the skeleton, and, on a machine with a tower, the loading and unloading that keeps the job moving.</p>
   <p class="steps-hint"><em>Click any photo to zoom in.</em></p>
 </div>
@@ -155,9 +155,9 @@
     </figure>
     <figure class="photo-tile">
       <a href="../assets/machine-3015-4k.jpg" title="Open the full-size photo">
-        <img src="../assets/machine-3015-4k.jpg" alt="Amada 3015 4kW laser with automation (photo I took at work)" width="100%" loading="lazy">
+        <img src="../assets/machine-3015-4k.jpg" alt="Amada FOL 3015 AJ 4kW laser with automation (photo I took at work)" width="100%" loading="lazy">
       </a>
-      <figcaption class="photo-caption"><em>Amada 3015 4kW laser with automation (photo I took at work)</em></figcaption>
+      <figcaption class="photo-caption"><em>Amada FOL 3015 AJ 4kW laser with automation (photo I took at work)</em></figcaption>
     </figure>
   </div>
 </div>

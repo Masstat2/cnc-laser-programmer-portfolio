@@ -121,9 +121,16 @@
 
 <figure class="photo-tile">
   <a href="../assets/machine-3015-4k.jpg" title="Open the full-size photo">
-    <img src="../assets/machine-3015-4k.jpg" alt="Amada 3015 4kW laser with automation (photo I took at work)" width="100%" loading="lazy">
+    <img src="../assets/machine-3015-4k.jpg" alt="Amada FOL 3015 AJ 4kW laser with automation (photo I took at work)" width="100%" loading="lazy">
   </a>
-  <figcaption class="photo-caption"><em>Amada 3015 4kW laser with automation (photo I took at work)</em></figcaption>
+  <figcaption class="photo-caption"><em>Amada FOL 3015 AJ 4kW laser with automation (photo I took at work)</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/fol-3015-aj-4kw.jpg" title="Open the full-size photo">
+    <img src="../projects/images/fol-3015-aj-4kw.jpg" alt="Amada FOL 3015 AJ 4kW laser cutter in the shop, with its red automation tower behind it" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Amada FOL 3015 AJ 4kW laser cutter with its automation tower.</em></figcaption>
 </figure>
 
 <figure class="photo-tile">
@@ -155,6 +162,13 @@
 </figure>
 
 <figure class="photo-tile">
+  <a href="../projects/images/x-direction-conveyor.jpg" title="Open the full-size photo">
+    <img src="../projects/images/x-direction-conveyor.jpg" alt="Amada X-direction conveyor dropping scrap and small parts into a bin beside the machine" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Amada X-direction conveyor, which carries scrap and small parts out of the machine.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
   <a href="../projects/images/ensis-3015-aj.jpg" title="Open the full-size photo">
     <img src="../projects/images/ensis-3015-aj.jpg" alt="Gray Amada ENSIS 3015 AJ laser cutting machine in the shop, with an FL 15000 badge on its side panel" width="100%" loading="lazy">
   </a>
@@ -166,6 +180,20 @@
     <img src="../projects/images/amada-as-lul-3015-table-clearing.jpg" alt="Amada AS LUL 3015 load/unload tower in the shop, waiting for the table to be cleared" width="100%" loading="lazy">
   </a>
   <figcaption class="photo-caption"><em>Amada AS LUL 3015 load/unload tower waiting for table clearing.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/as-lul-3015-controller.jpg" title="Open the full-size photo">
+    <img src="../projects/images/as-lul-3015-controller.jpg" alt="Operator control panel on the Amada AS LUL 3015 load/unload tower, with its screen, keypad and buttons" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Operator control panel on the Amada AS LUL 3015 load/unload tower.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/as-lul-3015-console.jpg" title="Open the full-size photo">
+    <img src="../projects/images/as-lul-3015-console.jpg" alt="Control terminal for the Amada AS LUL 3015 load/unload tower, with its screen and keyboard" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Control terminal for the Amada AS LUL 3015 load/unload tower.</em></figcaption>
 </figure>
 
 <figure class="photo-tile">
@@ -187,6 +215,20 @@
     <img src="../projects/images/amada-4020-output-side.jpg" alt="Output side of the Amada FO 4020NT, with a fresh sheet of metal on the shuttle table" width="100%" loading="lazy">
   </a>
   <figcaption class="photo-caption"><em>Output side of the Amada FO 4020NT, with a fresh sheet on the shuttle table.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/fo-4020nt-nozzle.jpg" title="Open the full-size photo">
+    <img src="../projects/images/fo-4020nt-nozzle.jpg" alt="Close-up of a cutting nozzle for the Amada FO 4020NT laser, sitting on a steel workbench" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Cutting nozzle for the Amada FO 4020NT laser.</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
+  <a href="../projects/images/fo-4020nt-ros-table.jpg" title="Open the full-size photo">
+    <img src="../projects/images/fo-4020nt-ros-table.jpg" alt="ROS table on the Amada FO 4020NT, with a fresh metal sheet resting on the slats" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>ROS table on the Amada FO 4020NT, with a fresh sheet on the slats.</em></figcaption>
 </figure>
 
 <figure class="photo-tile">
