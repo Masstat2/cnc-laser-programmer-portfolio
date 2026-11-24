@@ -9,14 +9,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-steel-dark-animated.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-steel-light-animated.svg">
-    <img src="assets/banner-steel-light-animated.svg" alt="Jason Vines, CNC Laser Programmer and Operator. Original decorative steel-plate artwork — not a photo of parts or equipment." width="100%">
+    <img src="assets/banner-steel-light-animated.svg" alt="Jason Vines, CNC Laser Programmer &amp; Operator. Original decorative steel-plate artwork — not a photo of parts or equipment." width="100%">
   </picture>
 </p>
 
-<p align="center"><strong>⚙️ CNC Laser Programmer / Machinist</strong></p>
+<p align="center"><strong>⚙️ CNC Laser Programmer &amp; Operator</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3500&pause=1200&color=FFB000&center=true&vCenter=true&width=700&height=40&lines=CNC+Laser+Programmer+%26+Operator;Stainless+%C2%B7+Aluminum+%C2%B7+HRPO;Amada+3015+%C2%B7+4020+%C2%B7+F1;Fairview%2C+Georgia" alt="CNC Laser Programmer and Operator at Metalworking Solutions">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3500&pause=1200&color=FFB000&center=true&vCenter=true&width=700&height=40&lines=CNC+Laser+Programmer+%26+Operator;Stainless+%C2%B7+Aluminum+%C2%B7+HRPO;Amada+3015+%C2%B7+4020+%C2%B7+F1;Fairview%2C+Georgia" alt="CNC Laser Programmer &amp; Operator at Metalworking Solutions">
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
   <img alt="Thickness" title="Usually 10 gauge to 16 gauge" src="https://img.shields.io/badge/Thickness-10_to_16_gauge-c5d0d8?style=for-the-badge&labelColor=1c1f24">
 </p>
 
-<p align="center">📍 Fairview, Georgia &nbsp;·&nbsp; ✉️ <a href="mailto:masstat.jv@gmail.com">masstat.jv@gmail.com</a></p>
+<p align="center">📍 Fairview, Georgia &nbsp;·&nbsp; ✉️ <a href="mailto:masstat.jv@gmail.com">masstat.jv@gmail.com</a> &nbsp;·&nbsp; <a href="https://github.com/Masstat2">GitHub</a></p>
 
 <p align="center">
   <a href="#what-i-do">What I Do</a> &nbsp;·&nbsp;
@@ -44,23 +44,11 @@
 </p>
 
 <a id="what-i-do"></a>
-<a id="core-skills"></a>
 ## 🔧 What I Do
 
 At [Metalworking Solutions](https://www.metalworkingsolutions.com/), I do CNC laser programming and I run the lasers, including machines with full automation. I cut stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel, usually from 10 gauge to 16 gauge.
 
-CNC Programmer and Machinist with 3+ years of CNC experience. I am seeking a CNC Programmer role.
-
-| | |
-| :--- | :--- |
-| **Machines** | Amada lasers: 3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation |
-| **Materials** | Stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel |
-| **Thickness** | Usually 10 gauge to 16 gauge |
-| **Programming** | CNC laser programming at [Metalworking Solutions](https://www.metalworkingsolutions.com/) (current); CAD/CAM programming at Victory Sign Industries |
-| **CAD/CAM** | CAD/CAM software (used at Victory Sign Industries to turn designs into accurate machine programs) |
-| **Setup & machining** | CNC machine setup, CNC operation, CNC laser operation, manual machining |
-| **Quality & process** | Quality control, workflow and process improvement, equipment maintenance |
-| **Leadership** | Training new operators, production supervision (20+ people), inventory control |
+CNC Laser Programmer &amp; Operator with 3+ years of CNC experience. I am seeking a CNC Programmer role.
 
 Previously, I did CAD/CAM programming and machine setup at Victory Sign Industries, cutting production time by 20% through efficient setups and improving part accuracy by 15%. I also have experience in manual machining, quality control, training new operators, and leading production teams.
 
@@ -108,10 +96,30 @@ I am not claiming a specific Amada model name beyond what I run: 3015 and 4020 b
   <img src="assets/divider-kerf.svg" alt="" width="100%">
 </p>
 
+<a id="core-skills"></a>
+## 🛠️ Core Skills
+
+| | |
+| :--- | :--- |
+| **Machines** | Amada lasers: 3015 and 4020 beds, 4kW, 6kW and 15kW, F1, with full automation |
+| **Materials** | Stainless steel, aluminum, and HRPO (hot rolled pickled and oiled) steel |
+| **Thickness** | Usually 10 gauge to 16 gauge |
+| **Programming** | CNC laser programming at [Metalworking Solutions](https://www.metalworkingsolutions.com/) (current); CAD/CAM programming at Victory Sign Industries |
+| **CAD/CAM** | CAD/CAM software (used at Victory Sign Industries to turn designs into accurate machine programs) |
+| **Setup & machining** | CNC machine setup, CNC operation, CNC laser operation, manual machining |
+| **Quality & process** | Quality control, workflow and process improvement, equipment maintenance |
+| **Leadership** | Training new operators, production supervision (20+ people), inventory control |
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+<p align="center">
+  <img src="assets/divider-kerf.svg" alt="" width="100%">
+</p>
+
 <a id="work-experience"></a>
 ## 💼 Work Experience
 
-### ⚡ CNC Laser Programmer / Machinist
+### ⚡ CNC Laser Programmer & Operator
 **[Metalworking Solutions (MWS)](https://www.metalworkingsolutions.com/)** — Chattanooga, TN  
 *June 2026 – Present*
 
@@ -136,7 +144,7 @@ I am not claiming a specific Amada model name beyond what I run: 3015 and 4020 b
 
 ### ⚙️ CNC Operator / Machinist
 **Victory Sign Industries** — Fort Oglethorpe, GA  
-*February 2023 – October 2025*
+*February 2023 – May 2025*
 
 - Programmed CNC jobs using CAD/CAM software, turning designs into accurate machine programs
 - Set up CNC machines for production runs; reduced production time by 20% through efficient setups
@@ -318,7 +326,7 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
   </tr>
 </table>
 
-More notes about each part are in the [projects](./projects/) folder.
+Write-ups for parts 01–04 are on the [projects](./projects/) page: [formed channels](./projects/#formed-channels), [formed channels with slots and cutouts](./projects/#formed-channels-with-slots-and-cutouts), [large curved panels](./projects/#large-curved-panels), and the [laser-cut bottle opener](./projects/#laser-cut-bottle-opener).
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -340,6 +348,7 @@ More notes about each part are in the [projects](./projects/) folder.
 ## 📬 Contact
 
 - **Email:** [masstat.jv@gmail.com](mailto:masstat.jv@gmail.com)
+- **GitHub:** [github.com/Masstat2](https://github.com/Masstat2)
 - **Location:** Fairview, Georgia
 
 <p align="right"><a href="#top">↑ Back to top</a></p>

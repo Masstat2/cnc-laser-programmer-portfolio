@@ -19,6 +19,7 @@
   <img src="../assets/divider-kerf-animated.svg" alt="" width="100%">
 </p>
 
+<a id="formed-channels"></a>
 ## 🔩 Formed channels
 
 **Material:** 14 ga HRPO (hot rolled pickled and oiled steel)
@@ -33,6 +34,7 @@ Formed channels with laser-cut holes, slots, and notches.
   <img src="../assets/divider-kerf.svg" alt="" width="100%">
 </p>
 
+<a id="formed-channels-with-slots-and-cutouts"></a>
 ## 🔩 Formed channels with slots and cutouts
 
 **Material:** 14 ga HRPO (hot rolled pickled and oiled steel)
@@ -47,6 +49,7 @@ Formed channels with laser-cut slots and cutouts.
   <img src="../assets/divider-kerf.svg" alt="" width="100%">
 </p>
 
+<a id="large-curved-panels"></a>
 ## 🔩 Large curved panels
 
 **Material:** 14 ga HRPO (hot rolled pickled and oiled steel)
@@ -61,6 +64,7 @@ Large curved panels.
   <img src="../assets/divider-kerf.svg" alt="" width="100%">
 </p>
 
+<a id="laser-cut-bottle-opener"></a>
 ## 🔩 Laser-cut bottle opener
 
 **Material:** 11 ga stainless steel
