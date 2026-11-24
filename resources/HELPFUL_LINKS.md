@@ -65,6 +65,9 @@ These are free articles and charts from other sources, shared here as links.
 - [Sheet Metal Gauge Chart](https://www.steelnow.com/blog/sheet-metal-gauge-chart) - Source: SteelNow. Shows how thick each gauge number really is for steel, stainless, and aluminum.
 - [Laser cutting basics: The science of burr-free laser cutting](https://www.thefabricator.com/thefabricator/article/lasercutting/laser-cutting-basics-the-science-of-burr-free-laser-cutting) - Source: The Fabricator. Explains why rough edges form on laser cut parts and how to get cleaner cuts.
 - [Gas gives the big assist in laser cutting](https://www.thefabricator.com/thefabricator/article/lasercutting/gas-gives-the-big-assist-in-laser-cutting) - Source: The Fabricator. Explains what assist gases like nitrogen and oxygen do during a cut.
+- [4 foundational elements of laser cutting quality](https://www.thefabricator.com/thefabricator/article/lasercutting/4-foundational-elements-of-laser-cutting-quality) - Source: The Fabricator. Names 4 basic things that make or break a good cut: gas flow, clean lenses, a centered beam, and the right focus.
+- [What is kerf?](https://www.fabworks.com/blog/laser-cutting-kerf-explained) - Source: Fabworks. Explains kerf, the thin strip of metal the laser burns away, and why it matters for small holes and parts that fit together.
+- [From CAD to Cut: Designing for Sheet Metal](https://sendcutsend.com/blog/from-cad-to-cut-designing-for-sheet-metal/) - Source: SendCutSend. A free beginner lesson on drawing parts so they cut right on a laser.
 
 <p align="center">
   <img src="../assets/divider-kerf.svg" alt="" width="100%">
