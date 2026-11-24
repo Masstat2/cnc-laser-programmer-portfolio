@@ -78,7 +78,7 @@
       var href = anchor.getAttribute('href') || '';
       if (!media.test(href)) return;
       if (!anchor.querySelector('img')) return;
-      if (anchor.closest('.skill-badges, .site-header-bar')) return;
+      if (anchor.closest('.skill-badges, .site-header-bar, .stock-photo')) return;
 
       anchor.classList.add('glightbox');
       anchor.setAttribute('data-gallery', 'site-photos');

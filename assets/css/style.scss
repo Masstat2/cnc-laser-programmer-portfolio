@@ -1207,3 +1207,176 @@ html[data-theme="light"] .theme-toggle-moon {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
+
+
+/* ---------- Fun motion upgrades (all six, approved) ----------
+   Vanilla CSS only. Every animation is inside
+   @media (prefers-reduced-motion: no-preference), or is turned
+   off under prefers-reduced-motion: reduce. Works in dark and light. */
+
+/* 1. Scroll fade-in */
+@media (prefers-reduced-motion: no-preference) {
+  html.fx-reveal .fx-in {
+    opacity: 0;
+    transform: translateY(18px);
+    transition: opacity .55s ease, transform .55s ease;
+  }
+  html.fx-reveal .fx-in.is-in {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* 2. Laser beam under the header and section titles */
+html.fx-laser .site-header-bar { position: relative; box-shadow: none; }
+html.fx-laser .markdown-body h2 { position: relative; border-bottom-color: transparent; }
+html.fx-laser .site-header-bar::after,
+html.fx-laser .markdown-body h2::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: -1px;
+  height: 3px;
+  pointer-events: none;
+  border-radius: 2px;
+  background: var(--ember);
+}
+html.fx-laser .markdown-body h2::after { height: 2px; }
+html.fx-laser .step-head h2::after { content: none; }
+@media (prefers-reduced-motion: no-preference) {
+  html.fx-laser .site-header-bar::after,
+  html.fx-laser .markdown-body h2::after {
+    background:
+      linear-gradient(90deg, transparent 0%, var(--ember) 40%, #fff6e0 50%, var(--ember-hot) 60%, transparent 100%) no-repeat 0 0 / 30% 100%,
+      var(--steel-edge);
+    box-shadow: 0 0 8px var(--ember);
+    animation: fx-laser-run 2.6s linear infinite;
+  }
+  html.fx-laser .markdown-body h2::after {
+    background-size: 22% 100%, 100% 100%;
+    animation-duration: 3.4s;
+  }
+  html.fx-laser .step-head h2::after { content: none; animation: none; box-shadow: none; }
+  @keyframes fx-laser-run {
+    from { background-position: -30% 0, 0 0; }
+    to { background-position: 130% 0, 0 0; }
+  }
+}
+
+/* 3. Hover tilt + orange glow on his photo cards only (not stock photos) */
+html.fx-tilt .photo-tile,
+html.fx-tilt .machine-card:not(.machine-card-stock),
+html.fx-tilt .fx-card { transform-origin: center center; }
+@media (prefers-reduced-motion: no-preference) and (hover: hover) and (pointer: fine) {
+  html.fx-tilt .photo-tile,
+  html.fx-tilt .machine-card:not(.machine-card-stock),
+  html.fx-tilt .fx-card {
+    transition: transform .22s ease, box-shadow .22s ease, border-color .22s ease;
+  }
+  html.fx-tilt .photo-tile:hover,
+  html.fx-tilt .photo-tile:focus-within,
+  html.fx-tilt .machine-card:not(.machine-card-stock):hover,
+  html.fx-tilt .machine-card:not(.machine-card-stock):focus-within,
+  html.fx-tilt .fx-card:hover,
+  html.fx-tilt .fx-card:focus-within {
+    border-color: var(--ember);
+    transform: perspective(800px) rotateX(4deg) rotateY(-6deg) translateY(-6px);
+    box-shadow: 0 0 0 1px var(--ember), 0 0 22px var(--ember-wash), 0 14px 28px var(--ember-wash);
+    z-index: 1;
+  }
+}
+
+/* 4. Typing title. Words stay in the HTML (readable with no JS; aria-label for screen readers). */
+.fx-title {
+  display: inline-block;
+  margin: 0;
+  color: var(--ember-hot);
+  font-family: var(--font-sans);
+  font-size: clamp(1.05rem, 4.2vw, 1.55rem);
+  font-weight: 700;
+  letter-spacing: .03em;
+  line-height: 1.4;
+  text-align: center;
+}
+.fx-title-text.is-typing::after,
+.fx-title-text.is-done::after {
+  content: "";
+  display: inline-block;
+  width: 2px;
+  height: 1em;
+  margin-left: 3px;
+  vertical-align: -.1em;
+  background: var(--ember);
+}
+@media (prefers-reduced-motion: no-preference) {
+  .fx-title-text.is-typing::after,
+  .fx-title-text.is-done::after { animation: fx-caret .85s step-end infinite; }
+  @keyframes fx-caret { 50% { opacity: 0; } }
+}
+@media (prefers-reduced-motion: reduce) {
+  .fx-title-text::after { content: none; }
+}
+
+/* 5. Subtle steel sheen + drifting sparks */
+html.fx-bg body { position: relative; }
+html.fx-bg .container-lg { position: relative; z-index: 1; }
+html.fx-bg body::before,
+html.fx-bg body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+}
+html.fx-bg body::before {
+  background: linear-gradient(115deg, transparent 35%, var(--fx-sheen, rgba(255,176,0,.04)) 50%, transparent 65%);
+  background-size: 220% 220%;
+  background-position: 0% 40%;
+}
+html.fx-bg body::after {
+  width: 2px; height: 2px; right: auto; bottom: auto;
+  background: transparent;
+  opacity: .7;
+  box-shadow:
+    8vw 18vh 0 .5px var(--fx-spark, rgba(255,176,0,.28)),
+    22vw 72vh 0 .5px var(--fx-spark, rgba(255,176,0,.2)),
+    41vw 31vh 0 1px var(--fx-spark, rgba(255,176,0,.32)),
+    63vw 58vh 0 .5px var(--fx-spark, rgba(255,176,0,.22)),
+    81vw 14vh 0 .5px var(--fx-spark, rgba(255,176,0,.26)),
+    91vw 81vh 0 1px var(--fx-spark, rgba(255,176,0,.18)),
+    14vw 91vh 0 .5px var(--fx-spark, rgba(255,176,0,.2)),
+    72vw 44vh 0 .5px var(--fx-spark, rgba(255,176,0,.2));
+}
+html[data-theme="light"].fx-bg {
+  --fx-sheen: rgba(255,210,140,.4);
+  --fx-spark: rgba(196,90,0,.22);
+}
+@media (prefers-reduced-motion: no-preference) {
+  html.fx-bg body::before { animation: fx-sheen 12s ease-in-out infinite; }
+  html.fx-bg body::after { animation: fx-sparks 16s linear infinite; }
+  @keyframes fx-sheen {
+    0%,100% { background-position: 0% 40%; }
+    50% { background-position: 100% 60%; }
+  }
+  @keyframes fx-sparks {
+    0% { transform: translate3d(0,0,0); opacity: .55; }
+    50% { transform: translate3d(2vw,-4vh,0); opacity: .85; }
+    100% { transform: translate3d(0,-8vh,0); opacity: .55; }
+  }
+}
+
+/* 6. Smooth page transitions (View Transitions API, with a fade fallback) */
+@media (prefers-reduced-motion: no-preference) {
+  @view-transition { navigation: auto; }
+  ::view-transition-old(root) { animation: fx-vt-out .28s ease both; }
+  ::view-transition-new(root) { animation: fx-vt-in .34s ease both; }
+  @keyframes fx-vt-out { to { opacity: 0; transform: translateY(-10px); } }
+  @keyframes fx-vt-in { from { opacity: 0; transform: translateY(12px); } }
+  html.fx-leave .container-lg {
+    opacity: 0;
+    transform: translateY(-8px);
+    transition: opacity .18s ease, transform .18s ease;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  @view-transition { navigation: none; }
+}

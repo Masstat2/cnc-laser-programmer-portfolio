@@ -14,7 +14,9 @@
 </p>
 
 <p align="center">
-  <img alt="CNC Laser Programmer &amp; Operator" title="CNC Laser Programmer &amp; Operator" src="https://img.shields.io/badge/CNC_Laser-Programmer_%26_Operator-ff8a00?style=for-the-badge&labelColor=1c1f24">
+  <span class="fx-title" aria-label="CNC Laser Programmer &amp; Operator">
+    <span class="fx-title-text">CNC Laser Programmer &amp; Operator</span>
+  </span>
 </p>
 
 <p align="center">
