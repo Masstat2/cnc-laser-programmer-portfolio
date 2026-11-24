@@ -69,7 +69,7 @@ These are common, general practices for laser programming and nesting:
   <img src="../assets/divider-kerf.svg" alt="" width="100%">
 </p>
 
-<p align="center">⬅️ <a href="../README.md">Back to my portfolio</a></p>
+<p align="center">⬅️ <a href="../">Back to my portfolio</a></p>
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
