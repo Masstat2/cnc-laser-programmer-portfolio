@@ -40,7 +40,7 @@
 ## 👤 Professional Summary
 
 <div class="resume-block">
-  <p>CNC Programmer and Machinist with 3+ years of CNC experience. Currently handle CNC laser programming at Metalworking Solutions. Previously did CAD/CAM programming and machine setup at Victory Sign Industries, cutting production time by 20% through efficient setups and improving part accuracy by 15%. Also experienced in manual machining, quality control, training new operators, and leading production teams. Seeking a CNC Programmer role.</p>
+  <p>CNC Laser Programmer &amp; Operator with 3+ years of CNC experience. Currently handle CNC laser programming at Metalworking Solutions. Previously did CAD/CAM programming and machine setup at Victory Sign Industries, cutting production time by 20% through efficient setups and improving part accuracy by 15%. Also experienced in manual machining, quality control, training new operators, and leading production teams. Seeking a CNC Programmer role.</p>
 </div>
 
 <a id="skills"></a>
