@@ -1395,3 +1395,8 @@ html[data-theme="light"].fx-bg {
 @media (prefers-reduced-motion: reduce) {
   @view-transition { navigation: none; }
 }
+
+/* In-page anchors: leave a gap above the target when jumping to #id links (every page) */
+[id] {
+  scroll-margin-top: 24px;
+}
