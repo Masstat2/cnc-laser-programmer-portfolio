@@ -17,6 +17,7 @@
 <p align="center"><strong>This page is a simple walk-through for shop bosses and recruiters who have never stood next to a laser.</strong></p>
 
 <p align="center">
+  <a href="#how-a-laser-cutter-works"><img alt="How a laser cutter works" title="How a laser cutter works" src="https://img.shields.io/badge/How_a_laser_cutter_works-d2b48c?style=for-the-badge&labelColor=1c1f24"></a>
   <a href="#the-nest"><img alt="1 The nest" title="1 The nest" src="https://img.shields.io/badge/1-The_nest-ff8a00?style=for-the-badge&labelColor=1c1f24"></a>
   <a href="#the-cut"><img alt="2 The cut" title="2 The cut" src="https://img.shields.io/badge/2-The_cut-ff8a00?style=for-the-badge&labelColor=1c1f24"></a>
   <a href="#the-skeleton"><img alt="3 The skeleton" title="3 The skeleton" src="https://img.shields.io/badge/3-The_skeleton-e8edf2?style=for-the-badge&labelColor=1c1f24"></a>
@@ -31,6 +32,21 @@
   <p>I work at <a href="https://www.metalworkingsolutions.com/">Metalworking Solutions</a>. I do CNC laser programming, and I run the lasers too, including machines with full automation. CNC means the machine follows a computer program. I cut stainless steel, aluminum, HRPO, which is hot rolled pickled and oiled steel, and galvanized steel, usually from 22 gauge sheet up to 10 gauge, and plate from 1/8 inch to 1 1/4 inch. Gauge is a number that stands for how thick the sheet is.</p>
   <p>A laser job usually follows four steps: the nest, the cut, the skeleton, and, on a machine with a tower, the loading and unloading that keeps the job moving.</p>
   <p class="steps-hint"><em>Click any photo to zoom in.</em></p>
+</div>
+
+<a id="how-a-laser-cutter-works"></a>
+<div class="step-card">
+  <div class="step-head">
+    <h2>How a Laser Cutter Works</h2>
+  </div>
+  <ol>
+    <li><strong>The beam.</strong> The machine makes a very strong beam of light and focuses it down to a tiny spot, thinner than a pencil line.</li>
+    <li><strong>The heat.</strong> That tiny spot gets hot enough to melt steel almost instantly.</li>
+    <li><strong>The gas.</strong> Gas blows through the nozzle with the beam and pushes the melted metal out of the cut. Nitrogen leaves a clean, bright edge. Oxygen is often used to help cut thick plate.</li>
+    <li><strong>The path.</strong> The program tells the cutting head exactly where to move, so it traces every part shape on the sheet.</li>
+    <li><strong>The nest.</strong> Parts are laid out tight on the sheet to save metal, and the parts and skeleton come off the table when the cut is done.</li>
+  </ol>
+  <p>Good results come from the right settings for each material and thickness: power, speed, gas, nozzle and focus.</p>
 </div>
 
 <div class="steps">
