@@ -48,17 +48,20 @@
     <p><strong>Review the nest before it runs.</strong> Check quantity, material, thickness, grain, lead-ins, tabs, and that no part hangs off the sheet. <a href="../tips/">See all the tips</a></p>
   </div>
   <p>If you want a longer explanation of how a nest is laid out, <a href="https://www.thefabricator.com/thefabricator/article/lasercutting/nesting-fundamentals-for-laser-cutting-stability">The Fabricator has an article on nesting fundamentals</a>, by Tim Heston. It is already on my <a href="../resources/HELPFUL_LINKS.html">Helpful Links</a> page.</p>
-  <!-- NEST PHOTO: when Jason's nest photo is added (for example projects/images/nest-before-cut.jpg),
-       replace FILE-NAME and the caption with his own words, then remove the comment markers around this block.
-  <div class="step-photos step-photos-single">
+  <div class="step-photos">
     <figure class="photo-tile">
-      <a href="../projects/images/FILE-NAME.jpg" title="Open the full-size photo">
-        <img src="../projects/images/FILE-NAME.jpg" alt="ALT TEXT FROM JASON" width="100%" loading="lazy">
+      <a href="../projects/images/nest-printout.jpg" title="Open the full-size photo">
+        <img src="../projects/images/nest-printout.jpg" alt="Printed nest layout showing parts laid out on a 42.5 x 120 inch sheet, with job and customer details blurred" width="100%" loading="lazy">
       </a>
-      <figcaption class="photo-caption"><em>CAPTION FROM JASON</em></figcaption>
+      <figcaption class="photo-caption"><em>A nest printout: parts laid out on a 42.5 x 120 inch sheet to save metal.</em></figcaption>
+    </figure>
+    <figure class="photo-tile">
+      <a href="../projects/images/nest-control-screen.jpg" title="Open the full-size photo">
+        <img src="../projects/images/nest-control-screen.jpg" alt="The laser&#x27;s control screen showing the cutting program next to the nest layout, with the program name blurred" width="100%" loading="lazy">
+      </a>
+      <figcaption class="photo-caption"><em>The cutting program and nest layout on the laser&#x27;s control screen.</em></figcaption>
     </figure>
   </div>
-  -->
 </div>
 
 <a id="the-cut"></a>
@@ -73,27 +76,27 @@
   <div class="step-photos">
     <figure class="photo-tile">
       <a href="../projects/images/amada-4020-laser-head.jpg" title="Open the full-size photo">
-        <img src="../projects/images/amada-4020-laser-head.jpg" alt="Red Amada LASMAC cutting head on the 4020 laser, cutting a sheet of metal with sparks under the nozzle" width="100%" loading="lazy">
+        <img src="../projects/images/amada-4020-laser-head.jpg" alt="Red Amada LASMAC cutting head on the FO 4020NT, cutting a sheet of metal with sparks under the nozzle" width="100%" loading="lazy">
       </a>
-      <figcaption class="photo-caption"><em>Amada 4020 LASMAC cutting head at work.</em></figcaption>
+      <figcaption class="photo-caption"><em>Amada LASMAC cutting head on the FO 4020NT, at work.</em></figcaption>
     </figure>
     <figure class="photo-tile">
       <a href="../projects/images/amada-3015-6k-cutting.mp4" title="Play the video (MP4)">
-        <img src="../projects/images/amada-3015-6k-cutting.gif" alt="Short looping clip of the Amada 3015 6K laser cutting sheet metal, with sparks under the cutting head" width="100%" loading="lazy">
+        <img src="../projects/images/amada-3015-6k-cutting.gif" alt="Short looping clip of the Amada 3015 6kW laser cutting sheet metal, with sparks under the cutting head" width="100%" loading="lazy">
       </a>
-      <figcaption class="photo-caption"><em>Amada 3015 6K laser cutting.</em></figcaption>
+      <figcaption class="photo-caption"><em>Amada 3015 6kW laser cutting.</em></figcaption>
     </figure>
     <figure class="photo-tile">
       <a href="../projects/images/amada-4020-output-side.jpg" title="Open the full-size photo">
-        <img src="../projects/images/amada-4020-output-side.jpg" alt="Output side of the Amada 4020 laser, with a fresh sheet of metal on the shuttle table" width="100%" loading="lazy">
+        <img src="../projects/images/amada-4020-output-side.jpg" alt="Output side of the Amada FO 4020NT, with a fresh sheet of metal on the shuttle table" width="100%" loading="lazy">
       </a>
-      <figcaption class="photo-caption"><em>Output side of the Amada 4020 laser, with a fresh sheet on the shuttle table.</em></figcaption>
+      <figcaption class="photo-caption"><em>Output side of the Amada FO 4020NT, with a fresh sheet on the shuttle table.</em></figcaption>
     </figure>
     <figure class="photo-tile">
       <a href="../projects/images/amada-4020-operator-console.jpg" title="Open the full-size photo">
-        <img src="../projects/images/amada-4020-operator-console.jpg" alt="Amada operator console on the 4020 laser, with its touch screen, control buttons, and keyboard" width="100%" loading="lazy">
+        <img src="../projects/images/amada-4020-operator-console.jpg" alt="Amada operator console on the FO 4020NT, with its touch screen, control buttons, and keyboard" width="100%" loading="lazy">
       </a>
-      <figcaption class="photo-caption"><em>Operator console on the Amada 4020 laser.</em></figcaption>
+      <figcaption class="photo-caption"><em>Operator console on the Amada FO 4020NT.</em></figcaption>
     </figure>
   </div>
 </div>
@@ -116,9 +119,9 @@
     </figure>
     <figure class="photo-tile">
       <a href="../projects/images/slider-door-latch-12ga.jpg" title="Open the full-size photo">
-        <img src="../projects/images/slider-door-latch-12ga.jpg" alt="Laser-cut slider door latch part made from 12 gauge steel" width="100%" loading="lazy">
+        <img src="../projects/images/slider-door-latch-12ga.jpg" alt="Laser-cut slider door latch part made from 12 gauge steel, cut on the Amada FO 4020NT" width="100%" loading="lazy">
       </a>
-      <figcaption class="photo-caption"><em>Slider door latch cut from 12 gauge steel on the Amada 4020 laser.</em></figcaption>
+      <figcaption class="photo-caption"><em>Slider door latch cut from 12 gauge steel on the Amada FO 4020NT.</em></figcaption>
     </figure>
     <figure class="photo-tile">
       <a href="../projects/images/galvanized-strips-16ga.jpg" title="Open the full-size photo">
@@ -135,26 +138,26 @@
     <span class="step-num" aria-hidden="true">4</span>
     <h2>How the tower keeps the job moving</h2>
   </div>
-  <p>On some of the lasers I run, a load and unload tower does the heavy lifting of moving sheets. The tower I run is an Amada AS-LUL. A load and unload tower is a tall rack that holds metal sheets and can move them on and off the laser.</p>
+  <p>On some of the lasers I run, a load and unload tower does the heavy lifting of moving sheets. The tower I run is an Amada AS LUL 3015. A load and unload tower is a tall rack that holds metal sheets and can move them on and off the laser.</p>
   <p>The tower has 7 material shelves, 3 cutting shelves, and 1 finished-goods shelf. The 3 cutting shelves allow continuous loading and unloading when running large jobs. That means a new sheet can be going in while a finished sheet is coming off, so a large job can keep running.</p>
   <div class="step-photos">
     <figure class="photo-tile">
       <a href="../assets/tower-as-lul.jpg" title="Open the full-size photo">
-        <img src="../assets/tower-as-lul.jpg" alt="Amada AS-LUL tower automation (photo I took at work)" width="100%" loading="lazy">
+        <img src="../assets/tower-as-lul.jpg" alt="Amada AS LUL 3015 tower automation (photo I took at work)" width="100%" loading="lazy">
       </a>
-      <figcaption class="photo-caption"><em>Amada AS-LUL tower automation (photo I took at work)</em></figcaption>
+      <figcaption class="photo-caption"><em>Amada AS LUL 3015 tower automation (photo I took at work)</em></figcaption>
     </figure>
     <figure class="photo-tile">
       <a href="../projects/images/amada-as-lul-3015-table-clearing.jpg" title="Open the full-size photo">
-        <img src="../projects/images/amada-as-lul-3015-table-clearing.jpg" alt="Amada AS-LUL 3015 load/unload tower in the shop, waiting for the table to be cleared" width="100%" loading="lazy">
+        <img src="../projects/images/amada-as-lul-3015-table-clearing.jpg" alt="Amada AS LUL 3015 load/unload tower in the shop, waiting for the table to be cleared" width="100%" loading="lazy">
       </a>
-      <figcaption class="photo-caption"><em>Amada AS-LUL 3015 load/unload tower waiting for table clearing.</em></figcaption>
+      <figcaption class="photo-caption"><em>Amada AS LUL 3015 load/unload tower waiting for table clearing.</em></figcaption>
     </figure>
     <figure class="photo-tile">
       <a href="../assets/machine-3015-4k.jpg" title="Open the full-size photo">
-        <img src="../assets/machine-3015-4k.jpg" alt="Amada 3015 4K laser with automation (photo I took at work)" width="100%" loading="lazy">
+        <img src="../assets/machine-3015-4k.jpg" alt="Amada 3015 4kW laser with automation (photo I took at work)" width="100%" loading="lazy">
       </a>
-      <figcaption class="photo-caption"><em>Amada 3015 4K laser with automation (photo I took at work)</em></figcaption>
+      <figcaption class="photo-caption"><em>Amada 3015 4kW laser with automation (photo I took at work)</em></figcaption>
     </figure>
   </div>
 </div>
