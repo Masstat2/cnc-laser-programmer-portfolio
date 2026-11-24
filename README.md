@@ -66,6 +66,7 @@
   <a href="./gallery/">Gallery</a> &nbsp;·&nbsp;
   <a href="./machines/">Machines</a> &nbsp;·&nbsp;
   <a href="./resume/">Resume</a> &nbsp;·&nbsp;
+  <a href="./how-it-works/">How It Works</a> &nbsp;·&nbsp;
   <a href="./tips/">Quick Reference</a> &nbsp;·&nbsp;
   <a href="./resources/HELPFUL_LINKS.html">Helpful Links</a> &nbsp;·&nbsp;
   <a href="#contact">Contact</a>
@@ -473,6 +474,7 @@ Write-ups for parts 01–04 are on the [projects](./projects/) page: [formed cha
 - [📸 Photo Gallery](./gallery/) — every part and machine photo in one place
 - [🏭 Machines I Run](./machines/) — the Amada lasers and automation I run, with photos
 - [📄 Resume](./resume/) — my resume on one page · [PDF](./resume/Jason_Vines_Resume.pdf)
+- [⚙️ How a Laser Job Runs](./how-it-works/) — a simple walk-through of a laser job: the nest, the cut, the skeleton, and the tower
 
 <p align="center">
   <img src="assets/divider-kerf.svg" alt="" width="100%">

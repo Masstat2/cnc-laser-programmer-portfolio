@@ -8,7 +8,8 @@
   <a href="../projects/">Projects</a> &nbsp;·&nbsp;
   <a href="../gallery/">Gallery</a> &nbsp;·&nbsp;
   <a href="../machines/">Machines</a> &nbsp;·&nbsp;
-  <a href="../resume/">Resume</a>
+  <a href="../resume/">Resume</a> &nbsp;·&nbsp;
+  <a href="../how-it-works/">How It Works</a>
 </p>
 
 <h1 align="center">📸 Photo Gallery</h1>
