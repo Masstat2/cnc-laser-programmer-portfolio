@@ -136,7 +136,7 @@ I am not claiming a specific Amada model name beyond what I run: 3015 and 4020 b
 
 <p align="center" class="skill-badges">
   <img alt="Amada 3015" title="Amada 3015" src="https://img.shields.io/badge/Amada-3015-ff8a00?style=for-the-badge&labelColor=1c1f24">
-  <img alt="Amada 4020" title="Amada 4020" src="https://img.shields.io/badge/Amada-4020-ff8a00?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Amada FO 4020NT" title="Amada FO 4020NT" src="https://img.shields.io/badge/Amada-FO_4020NT-ff8a00?style=for-the-badge&labelColor=1c1f24">
   <img alt="Amada F1" title="Amada F1" src="https://img.shields.io/badge/Amada-F1-ff8a00?style=for-the-badge&labelColor=1c1f24">
   <img alt="4kW" title="4kW" src="https://img.shields.io/badge/4kW-e8edf2?style=for-the-badge&labelColor=1c1f24">
   <img alt="6kW" title="6kW" src="https://img.shields.io/badge/6kW-e8edf2?style=for-the-badge&labelColor=1c1f24">
@@ -482,9 +482,9 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
     </td>
     <td width="50%" valign="top" align="center">
       <a href="projects/images/ensis-3015-aj.jpg" title="Open the full-size photo">
-        <img src="projects/images/ensis-3015-aj.jpg" alt="Gray Amada ENSIS 3015 AJ laser cutting machine in the shop, with an F1 15000 badge on its side panel" width="96%">
+        <img src="projects/images/ensis-3015-aj.jpg" alt="Gray Amada ENSIS 3015 AJ laser cutting machine in the shop, with an FL 15000 badge on its side panel" width="96%">
       </a>
-      <br><em>Amada ENSIS 3015 AJ laser cutting machine, with an F1 15000 badge.</em>
+      <br><em>Amada ENSIS 3015 AJ laser cutting machine, with an FL 15000 badge.</em>
     </td>
   </tr>
 </table>

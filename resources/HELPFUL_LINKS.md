@@ -24,7 +24,7 @@
 
 | 📄 Resource | 🏷️ Source | 💡 Why it's useful |
 |---|---|---|
-| [AS LUL 3015 Automatic Storage with Load and Unload Functions (PDF brochure)](https://www.amada.eu/fileadmin/Repository/Products/Brochures/ASLUL_3015_2pages_2021_EN.pdf) | <img alt="AMADA EUROPE" title="AMADA EUROPE" src="https://img.shields.io/badge/AMADA-EUROPE-e8edf2?style=flat-square&labelColor=1c1f24"> | Overview of the AS-LUL tower that loads raw sheets and unloads finished sheets. |
+| [AS LUL 3015 Automatic Storage with Load and Unload Functions (PDF brochure)](https://www.amada.eu/fileadmin/Repository/Products/Brochures/ASLUL_3015_2pages_2021_EN.pdf) | <img alt="AMADA EUROPE" title="AMADA EUROPE" src="https://img.shields.io/badge/AMADA-EUROPE-e8edf2?style=flat-square&labelColor=1c1f24"> | Overview of the Amada AS LUL 3015 tower that loads raw sheets and unloads finished sheets. |
 
 ## 🧩 Nesting
 

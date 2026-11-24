@@ -156,9 +156,9 @@
 
 <figure class="photo-tile">
   <a href="../projects/images/ensis-3015-aj.jpg" title="Open the full-size photo">
-    <img src="../projects/images/ensis-3015-aj.jpg" alt="Gray Amada ENSIS 3015 AJ laser cutting machine in the shop, with an F1 15000 badge on its side panel" width="100%" loading="lazy">
+    <img src="../projects/images/ensis-3015-aj.jpg" alt="Gray Amada ENSIS 3015 AJ laser cutting machine in the shop, with an FL 15000 badge on its side panel" width="100%" loading="lazy">
   </a>
-  <figcaption class="photo-caption"><em>Amada ENSIS 3015 AJ laser cutting machine, with an F1 15000 badge.</em></figcaption>
+  <figcaption class="photo-caption"><em>Amada ENSIS 3015 AJ laser cutting machine, with an FL 15000 badge.</em></figcaption>
 </figure>
 
 <figure class="photo-tile">

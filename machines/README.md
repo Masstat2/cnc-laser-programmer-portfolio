@@ -103,11 +103,11 @@
   <span class="machine-name">Amada ENSIS 3015 AJ</span>
   <div class="machine-photos">
     <a href="../projects/images/ensis-3015-aj.jpg" title="Open the full-size photo">
-      <img src="../projects/images/ensis-3015-aj.jpg" alt="Gray Amada ENSIS 3015 AJ laser cutting machine in the shop, with an F1 15000 badge on its side panel" width="100%" loading="lazy">
+      <img src="../projects/images/ensis-3015-aj.jpg" alt="Gray Amada ENSIS 3015 AJ laser cutting machine in the shop, with an FL 15000 badge on its side panel" width="100%" loading="lazy">
     </a>
   </div>
   <div class="machine-text">
-    <p><em>Amada ENSIS 3015 AJ laser cutting machine, with an F1 15000 badge.</em></p>
+    <p><em>Amada ENSIS 3015 AJ laser cutting machine, with an FL 15000 badge.</em></p>
     <p><a href="https://www.amada.com/america/ensis-series">ENSIS series</a> (official Amada page)</p>
   </div>
 </div>
