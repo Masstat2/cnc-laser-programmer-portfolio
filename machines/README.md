@@ -227,6 +227,61 @@
   <img src="../assets/divider-kerf.svg" alt="" width="100%">
 </p>
 
+<a id="shop-equipment"></a>
+## 🧰 Shop Equipment
+
+<div class="machine-grid machine-grid-2">
+
+<div class="machine-card">
+  <div class="machine-photos">
+    <a href="../projects/images/nozzle-change-tools.jpg" title="Open the full-size photo">
+      <img src="../projects/images/nozzle-change-tools.jpg" alt="Nozzle change tools for the Amada lasers." width="100%" loading="lazy">
+    </a>
+  </div>
+  <div class="machine-text">
+    <p><em>Nozzle change tools for the Amada lasers.</em></p>
+  </div>
+</div>
+
+<div class="machine-card">
+  <div class="machine-photos">
+    <a href="../projects/images/liberty-systems-nitrogen-generator.jpg" title="Open the full-size photo">
+      <img src="../projects/images/liberty-systems-nitrogen-generator.jpg" alt="Tanks and filters for the Liberty Systems nitrogen generator." width="100%" loading="lazy">
+    </a>
+  </div>
+  <div class="machine-text">
+    <p><em>Tanks and filters for the Liberty Systems nitrogen generator.</em></p>
+  </div>
+</div>
+
+<div class="machine-card">
+  <div class="machine-photos">
+    <a href="../projects/images/liberty-systems-nitrogen-generator-unit.jpg" title="Open the full-size photo">
+      <img src="../projects/images/liberty-systems-nitrogen-generator-unit.jpg" alt="Liberty Systems nitrogen generator in the shop." width="100%" loading="lazy">
+    </a>
+  </div>
+  <div class="machine-text">
+    <p><em>Liberty Systems nitrogen generator in the shop.</em></p>
+  </div>
+</div>
+
+<div class="machine-card">
+  <div class="machine-photos">
+    <a href="../projects/images/amada-esd-unit.jpg" title="Open the full-size photo">
+      <img src="../projects/images/amada-esd-unit.jpg" alt="Amada ESD (Energy Saving Device) unit in the shop." width="100%" loading="lazy">
+    </a>
+  </div>
+  <div class="machine-text">
+    <p><em>Amada ESD (Energy Saving Device) unit in the shop.</em></p>
+  </div>
+</div>
+
+</div>
+
+<p align="center">
+  <img src="../assets/divider-kerf.svg" alt="" width="100%">
+</p>
+
 <a id="official-amada-pages"></a>
 ## 🔗 Official Amada pages
 
