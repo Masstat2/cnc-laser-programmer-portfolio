@@ -294,6 +294,20 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
       <br><em>Amada LCG 3015AJ 6kW laser cutter.</em>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/galvanized-strips-16ga.jpg" title="Open the full-size photo">
+        <img src="projects/images/galvanized-strips-16ga.jpg" alt="Strips of 16 gauge galvanized sheet metal cut on the laser" width="78%">
+      </a>
+      <br><em>16 gauge galvanized strips cut on the laser.</em>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="projects/images/galvanized-plate-14ga.jpg" title="Open the full-size photo">
+        <img src="projects/images/galvanized-plate-14ga.jpg" alt="14 gauge galvanized plate cut on the laser, with an Amada unloader in the background" width="100%">
+      </a>
+      <br><em>14 gauge galvanized plate cut on the laser, with the Amada AMS 3015 ROS unloader in the background.</em>
+    </td>
+  </tr>
 </table>
 
 More notes about each part are in the [projects](./projects/) folder.
