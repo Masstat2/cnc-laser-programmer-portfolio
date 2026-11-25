@@ -1040,6 +1040,14 @@ html[data-theme="light"] .theme-toggle-moon {
   .equip-row {
     flex-direction: column;
   }
+
+  /* Let each stacked card use its photo + caption height. flex-basis: 0 plus
+     overflow: hidden was clipping both photos to 2px gray lines. Leave the
+     inline flex-grow values alone so the desktop row is unchanged. */
+  .equip-row .photo-tile {
+    flex-basis: auto;
+    flex-shrink: 0;
+  }
 }
 
 /* Machines: even out photo gaps.
