@@ -68,6 +68,9 @@ These are free articles and charts from other sources, shared here as links.
 - [4 foundational elements of laser cutting quality](https://www.thefabricator.com/thefabricator/article/lasercutting/4-foundational-elements-of-laser-cutting-quality) - Source: The Fabricator. Names 4 basic things that make or break a good cut: gas flow, clean lenses, a centered beam, and the right focus.
 - [What is kerf?](https://www.fabworks.com/blog/laser-cutting-kerf-explained) - Source: Fabworks. Explains kerf, the thin strip of metal the laser burns away, and why it matters for small holes and parts that fit together.
 - [From CAD to Cut: Designing for Sheet Metal](https://sendcutsend.com/blog/from-cad-to-cut-designing-for-sheet-metal/) - Source: SendCutSend. A free beginner lesson on drawing parts so they cut right on a laser.
+- [How microtabbing holds a blanking operation together](https://www.thefabricator.com/thefabricator/article/lasercutting/how-microtabbing-holds-fabricators-blanking-operation-together) - Source: The Fabricator (Tim Heston). Shows how tiny uncut tabs keep parts in the sheet so they don't fall or tip during loading and unloading.
+- [The pride of ownership in laser cutting and punch machine programming](https://www.thefabricator.com/thefabricator/article/lasercutting/the-pride-of-ownership-in-laser-cutting-and-punch-machine-programming) - Source: The Fabricator. Explains how a good nest saves metal and makes the next steps in the shop easier.
+- [Material spec sheet: all specs by thickness](https://sendcutsend.com/materials/spec-sheet/) - Source: SendCutSend. A free table of sheet metals, like stainless, aluminum and HRPO, sorted by thickness.
 
 <p align="center">
   <img src="../assets/divider-kerf.svg" alt="" width="100%">
