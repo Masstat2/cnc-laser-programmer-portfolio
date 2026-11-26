@@ -71,6 +71,10 @@ These are free articles and charts from other sources, shared here as links.
 - [How microtabbing holds a blanking operation together](https://www.thefabricator.com/thefabricator/article/lasercutting/how-microtabbing-holds-fabricators-blanking-operation-together) - Source: The Fabricator (Tim Heston). Shows how tiny uncut tabs keep parts in the sheet so they don't fall or tip during loading and unloading.
 - [The pride of ownership in laser cutting and punch machine programming](https://www.thefabricator.com/thefabricator/article/lasercutting/the-pride-of-ownership-in-laser-cutting-and-punch-machine-programming) - Source: The Fabricator. Explains how a good nest saves metal and makes the next steps in the shop easier.
 - [Material spec sheet: all specs by thickness](https://sendcutsend.com/materials/spec-sheet/) - Source: SendCutSend. A free table of sheet metals, like stainless, aluminum and HRPO, sorted by thickness.
+- [VPSS 3i Blank](https://www.amada.com/america/vpss3i-blank) - Source: Amada America. Amada's page about its software for drawing parts, nesting them on a sheet, and making programs for Amada laser and punch machines.
+- [Understanding small geometry in laser cutting](https://sendcutsend.com/blog/understanding-small-geometry-in-laser-cutting/) - Source: SendCutSend. Explains why very small holes, slots, and thin bits can fail, and how big they need to be compared to the metal's thickness.
+- [Mini design guide for sheet cutting](https://www.xometry.com/resources/sheet/sheet-cutting-tips/) - Source: Xometry. Easy tips for drawing flat parts so they cut well and cost less.
+- [How laser cutting aluminum changed the rules of metal fabrication](https://www.thefabricator.com/thefabricator/article/lasercutting/how-laser-cutting-aluminum-changed-the-rules-of-metal-fabrication) - Source: The Fabricator. Explains what's different about cutting aluminum with a laser compared to steel.
 
 <p align="center">
   <img src="../assets/divider-kerf.svg" alt="" width="100%">
