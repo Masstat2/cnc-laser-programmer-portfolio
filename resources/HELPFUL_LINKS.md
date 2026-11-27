@@ -75,6 +75,9 @@ These are free articles and charts from other sources, shared here as links.
 - [Understanding small geometry in laser cutting](https://sendcutsend.com/blog/understanding-small-geometry-in-laser-cutting/) - Source: SendCutSend. Explains why very small holes, slots, and thin bits can fail, and how big they need to be compared to the metal's thickness.
 - [Mini design guide for sheet cutting](https://www.xometry.com/resources/sheet/sheet-cutting-tips/) - Source: Xometry. Easy tips for drawing flat parts so they cut well and cost less.
 - [How laser cutting aluminum changed the rules of metal fabrication](https://www.thefabricator.com/thefabricator/article/lasercutting/how-laser-cutting-aluminum-changed-the-rules-of-metal-fabrication) - Source: The Fabricator. Explains what's different about cutting aluminum with a laser compared to steel.
+- [Blanking Automation](https://www.amada.com/america/blanking-automation) - Source: Amada America. Amada's page about the machines that load sheets onto a laser and unload the cut parts, like a load and unload tower.
+- [Considerations for designing parts for laser cutting](https://www.thefabricator.com/thefabricator/article/lasercutting/considerations-for-designing-parts-for-laser-cutting) - Source: The Fabricator. Explains where a cut should start, called the pierce, and why edges and metal thickness matter.
+- [Smart nesting for laser, plasma, oxyfuel, and waterjet cutting](https://www.thefabricator.com/thefabricator/article/cuttingweldprep/smart-nesting-for-laser-plasma-oxyfuel-and-waterjet-cutting) - Source: The Fabricator. Explains how good nesting fits more parts on one sheet and wastes less metal.
 
 <p align="center">
   <img src="../assets/divider-kerf.svg" alt="" width="100%">
