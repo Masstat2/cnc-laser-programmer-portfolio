@@ -19,6 +19,23 @@
   <img src="../assets/divider-kerf-animated.svg" alt="" width="100%">
 </p>
 
+<a id="christmas-ornament"></a>
+## 🔩 [Christmas Ornament with Company Logo](christmas-ornament/)
+
+Cut from 3/16" stainless steel on the laser, then run through the Costa for a textured finish.
+
+**The hard part:** The small letters in "INTO THE STORM." With tiny cutouts in thick stainless, heat builds up fast and the letters can come out uneven or melted. To stop that, I ran a few engraving passes on the letters first to keep the heat down, then made the final cut through. Every letter came out clean and the same.
+
+**The result:** Sharp, even letters and a clean bison outline, with a finish that's ready to hang.
+
+<a href="images/into-the-storm-ornament.jpg" title="Open the full-size photo">
+  <img src="images/into-the-storm-ornament.jpg" alt="Laser-cut stainless Christmas ornament with a bison and the words INTO THE STORM" width="100%">
+</a>
+
+<p align="center">
+  <img src="../assets/divider-kerf.svg" alt="" width="100%">
+</p>
+
 <a id="formed-channels"></a>
 ## 🔩 Formed channels
 
