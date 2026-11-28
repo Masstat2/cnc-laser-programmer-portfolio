@@ -30,6 +30,13 @@
 <div class="photo-grid">
 
 <figure class="photo-tile">
+  <a href="../projects/images/into-the-storm-ornament.jpg" title="Open the full-size photo">
+    <img src="../projects/images/into-the-storm-ornament.jpg" alt="Laser-cut stainless Christmas ornament with a bison and the words INTO THE STORM" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em>Christmas Ornament with Company Logo</em></figcaption>
+</figure>
+
+<figure class="photo-tile">
   <a href="../projects/images/part-01.jpg" title="Open the full-size photo">
     <img src="../projects/images/part-01.jpg" alt="Formed channels with laser-cut holes, slots, and notches — 14 ga HRPO" width="100%" loading="lazy">
   </a>
