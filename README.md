@@ -342,6 +342,18 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
 <div class="photo-grid">
 
 <figure class="photo-tile">
+  <a href="projects/images/into-the-storm-ornament.jpg" title="Open the full-size photo">
+    <img src="projects/images/into-the-storm-ornament.jpg" alt="Laser-cut stainless Christmas ornament with a bison and the words INTO THE STORM" width="100%" loading="lazy">
+  </a>
+  <figcaption class="photo-caption"><em><a href="projects/christmas-ornament/">Christmas Ornament with Company Logo</a></em>
+    <details>
+      <summary>Notes</summary>
+      <p>Cut from 3/16" stainless steel on the laser, then run through the Costa for a textured finish.</p>
+    </details>
+  </figcaption>
+</figure>
+
+<figure class="photo-tile">
   <a href="projects/images/part-01.jpg" title="Open the full-size photo">
     <img src="projects/images/part-01.jpg" alt="Formed channels with laser-cut holes, slots, and notches — 14 ga HRPO" width="100%" loading="lazy">
   </a>
@@ -598,7 +610,7 @@ Photos of parts I have programmed and cut. Material and thickness are listed whe
 
 </div>
 
-Write-ups for parts 01–04 are on the [projects](./projects/) page: [formed channels](./projects/#formed-channels), [formed channels with slots and cutouts](./projects/#formed-channels-with-slots-and-cutouts), [large curved panels](./projects/#large-curved-panels), and the [laser-cut bottle opener](./projects/#laser-cut-bottle-opener).
+A write-up for the [Christmas Ornament with Company Logo](./projects/christmas-ornament/) is on its own page. Write-ups for parts 01–04 are on the [projects](./projects/) page: [formed channels](./projects/#formed-channels), [formed channels with slots and cutouts](./projects/#formed-channels-with-slots-and-cutouts), [large curved panels](./projects/#large-curved-panels), and the [laser-cut bottle opener](./projects/#laser-cut-bottle-opener).
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
